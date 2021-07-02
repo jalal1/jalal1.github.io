@@ -40,14 +40,14 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "jalalk@uab.edu"
-  facebook: deanattali
-  github: https://github.com/jalal1
+#   facebook: deanattali
+  github: "https://github.com/jalal1"
 #   twitter: daattali
 #   patreon: DeanAttali
 #   youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
- linkedin: https://www.linkedin.com/in/jalal-khalil-408a7117/
+ linkedin: "https://www.linkedin.com/in/jalal-khalil-408a7117/"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -165,7 +165,7 @@ footer-link-col: "#404040"
 #utterances:
 #  repository: # GitHub username/repository eg. "daattali/beautiful-jekyll"
 #  issue-term: title   # Mapping between blog posts and GitHub issues
- theme: github-light # Utterances theme
+#  theme: github-light # Utterances theme
 #  label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances
 
 # To use Staticman comments, uncomment the following section. You may leave the reCaptcha
