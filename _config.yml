@@ -16,7 +16,7 @@ author: Jalal Khalil
 navbar-links:
   Experience: "experience"
   Publications: "publications"
-  Projects: "projects"
+  Projects: "projects" 
 
 # --- Logo --- #
 
@@ -45,7 +45,7 @@ social-network-links:
   # youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
- linkedin: "jalal-khalil-408a7117"
+  linkedin: "jalal-khalil-408a7117"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
