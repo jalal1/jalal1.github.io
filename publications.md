@@ -5,24 +5,18 @@ title: Publications
 
 [Google Scholar](https://scholar.google.com/citations?user=mH6ot6kAAAAJ&hl=en)
 
-## 2021
-Potential Benefits of Increased Public Transit Ridership in Medium Sized Cities: A Case Study [Link](https://doi.org/10.4236/jtts.2022.121004)
+### 2021
+Potential Benefits of Increased Public Transit Ridership in Medium Sized Cities: A Case Study [Link](https://doi.org/10.4236/jtts.2022.121004) \
 Virginia Sisiopiku, Taniya Sultana, **Jalal Khalil**, Da YAN \
 Journal of Transportation Technologies
 
-### Parallel Mining of Large Maximal Quasi-Cliques [Link](https://doi.org/10.1007/s00778-021-00712-2)
-**Jalal Khalil**, Da Yan, Guimu Guo, Lyuheng Yuan
- VLDB Journal 2021
+Parallel Mining of Large Maximal Quasi-Cliques [Link](https://doi.org/10.1007/s00778-021-00712-2) \
+**Jalal Khalil**, Da Yan, Guimu Guo, Lyuheng Yuan \
+VLDB Journal 2021
 
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Parallel Mining of Large Maximal Quasi-Cliques</strong> [<a href="https://doi.org/10.1007/s00778-021-00712-2" target="_blank">Link</a>]<br />
-          <b>Jalal Khalil</b>, Da Yan, Guimu Guo, Lyuheng Yuan<br />
-          VLDB Journal 2021<br />
-       </p>
-    </div>
-</div>
+Traffic Study of Shared Micromobility Services by Transportation Simulation [YouTube](https://www.youtube.com/watch?v=irPD1wUYiOA) \
+**Jalal Khalil**, Da YAN, Guimu Guo, Mirza Tanzim Sami, Joy Bhadhan Roy, Virginia P. Sisiopiku. \
+IEEE BigData 2021
 
 <div class="media">
     <div class="media-body">
