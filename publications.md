@@ -10,67 +10,35 @@ title: Publications
 Virginia Sisiopiku, Taniya Sultana, **Jalal Khalil**, Da YAN \
 Journal of Transportation Technologies
 
-**Parallel Mining of Large Maximal Quasi-Cliques** [Link](https://doi.org/10.1007/s00778-021-00712-2) \
+**Parallel Mining of Large Maximal Quasi-Cliques** [[Link]](https://doi.org/10.1007/s00778-021-00712-2) \
 **Jalal Khalil**, Da Yan, Guimu Guo, Lyuheng Yuan \
 VLDB Journal 2021
 
-Traffic Study of Shared Micromobility Services by Transportation Simulation [YouTube](https://www.youtube.com/watch?v=irPD1wUYiOA) \
+**Traffic Study of Shared Micromobility Services by Transportation Simulation** [[YouTube]](https://www.youtube.com/watch?v=irPD1wUYiOA) \
 **Jalal Khalil**, Da YAN, Guimu Guo, Mirza Tanzim Sami, Joy Bhadhan Roy, Virginia P. Sisiopiku. \
 IEEE BigData 2021
 
-[Poster] Realistic Transport Simulation for Studying the Impacts of Shared Micromobility Services [YouTube](https://youtu.be/SyR0mosJbDg) \
+**[Poster] Realistic Transport Simulation for Studying the Impacts of Shared Micromobility Services** [[YouTube]](https://youtu.be/SyR0mosJbDg) \
 **Jalal Khalil**, Da YAN, Guimu Guo, Mirza Tanzim Sami, Joy Bhadhan Roy, Virginia P. Sisiopiku. \
 BTSD@IEEE BigData 2021
 
-[Poster] Realistic Transport Simulation for Studying the Impacts of Shared Micromobility Services [YouTube](https://youtu.be/SyR0mosJbDg) \
-**Jalal Khalil**, Da YAN, Guimu Guo, Mirza Tanzim Sami, Joy Bhadhan Roy, Virginia P. Sisiopiku. \
-BTSD@IEEE BigData 2021
+**G-thinker: A General Distributed Framework for Finding Qualified Subgraphs in a Big Graph with Load Balancing** [[Link]](https://doi.org/10.1007/s00778-021-00688-z) \
+Da YAN, Guimu Guo, **Jalal Khalil**, M. Tamer Ozsu, Wei-Shinn Ku, John C.S. Lui \
+VLDB Journal 2021
 
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>G-thinker: A General Distributed Framework for Finding Qualified Subgraphs in a Big Graph with Load Balancing</strong> [<a href="https://doi.org/10.1007/s00778-021-00688-z" target="_blank">Link</a>]<br />
-          Da YAN, Guimu Guo, <b>Jalal Khalil</b>, M. Tamer Ozsu, Wei-Shinn Ku, John C.S. Lui<br />
-          VLDB Journal 2021<br />
-       </p>
-    </div>
-</div>
+### 2020
 
-<h3>
-    <a name='2020'></a> 2020
-</h3>
+**Scalable Mining of Maximal Quasi-Cliques: An Algorithm-System Codesign Approach** [[Link]](https://dl.acm.org/doi/10.14778/3436905.3436916) \
+Guimu Guo, Da Yan, M. Tamer Özsu, Zhe Jiang, **Jalal Khalil** \
+ Proceedings of the VLDB Endowment (PVLDB 2020)
 
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Scalable Mining of Maximal Quasi-Cliques: An Algorithm-System Codesign Approach</strong> [<a href="https://dl.acm.org/doi/10.14778/3436905.3436916" target="_blank">Pdf</a>]<br />
-          Guimu Guo, Da Yan, M. Tamer Özsu, Zhe Jiang, <b>Jalal Khalil</b><br />
-          Proceedings of the VLDB Endowment (<b>PVLDB 2020</b>)<br />
-       </p>
-    </div>
-</div>
+### 2019
 
-<h3>
-    <a name='2019'></a> 2019
-</h3>
+**Realistic Transport Simulation: Tackling the Small Data Challenge with Open Data** [[Link]](https://doi.org/10.1109/BigData47090.2019.9006457) \
+Guimu Guo, **Jalal Khalil**, Da Yan, and Virginia Sisiopiku \
+2019 IEEE International Conference on Big Data (BTSD @ IEEE BigData 2019)
 
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Realistic Transport Simulation: Tackling the Small Data Challenge with Open Data</strong> [<a href="https://doi.org/10.1109/BigData47090.2019.9006457" target="_blank">Link</a>]<br />
-          Guimu Guo, <b>Jalal Khalil</b>, Da Yan, and Virginia Sisiopiku<br />
-          2019 IEEE International Conference on Big Data (BTSD @ IEEE BigData 2019)<br />
-       </p>
-    </div>
-</div>
-
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong> [Poster] Realistic Transport Simulation with Open Data</strong> [<a href="https://doi.org/10.1109/BigData47090.2019.9006291" target="_blank">Link</a>] [<a href="../_data/bigdata19sim_poster.pdf" target="_blank">Poster</a>]<br />
-          Guimu Guo, <b>Jalal Khalil</b>, Da Yan, and Virginia Sisiopiku<br />
-          2019 IEEE International Conference on Big Data (IEEE BigData 2019)<br />
-       </p>
-    </div>
-</div>
+**[Poster] Realistic Transport Simulation with Open Data** [[Link]](https://doi.org/10.1109/BigData47090.2019.9006291) [[Poster]](https://github.com/jalal1/jalal1.github.io/blob/9c60ee94aefe57198fb7905b198f99c5a7f38e64/_data/bigdata19sim_poster.pdf) \
+Guimu Guo, **Jalal Khalil**, Da Yan, and Virginia Sisiopiku \
+2019 IEEE International Conference on Big Data (BTSD @ IEEE BigData 2019)
 
