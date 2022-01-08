@@ -6,6 +6,14 @@ Birzeit university - Master in Scientific Computing \
 Arab American University - Telecommunication Technology \
 2003 - 2007
 
+### **TEACHING ASSISTANT**
+University of Alabama at Birmingham 
+- Fall 2020 \
+  Course: Machine Learning
+- Spring 2021 \
+  Course: Networking
+
+
 ### **EXPERIENCE**
 **Logitude World, Cloud Engineer** \
 2013 - 2018 \
