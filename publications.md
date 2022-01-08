@@ -6,9 +6,11 @@ title: Publications
 [<a href="https://scholar.google.com/citations?user=mH6ot6kAAAAJ&hl=en" target="_blank">Google Scholar</a>]
 <br />
 
-<h3>
-    <a name='2021'></a> 2021
-</h3>
+# 2021
+## Potential Benefits of Increased Public Transit Ridership in Medium Sized Cities: A Case Study [Link](https://doi.org/10.4236/jtts.2022.121004)
+Virginia Sisiopiku, Taniya Sultana, **Jalal Khalil**, Da YAN \
+Journal of Transportation Technologies
+
 
 <div class="media">
     <div class="media-body">
