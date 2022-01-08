@@ -6,11 +6,11 @@ title: Publications
 [Google Scholar](https://scholar.google.com/citations?user=mH6ot6kAAAAJ&hl=en)
 
 ### 2021
-Potential Benefits of Increased Public Transit Ridership in Medium Sized Cities: A Case Study [Link](https://doi.org/10.4236/jtts.2022.121004) \
+**Potential Benefits of Increased Public Transit Ridership in Medium Sized Cities: A Case Study** [[Link]](https://doi.org/10.4236/jtts.2022.121004) \
 Virginia Sisiopiku, Taniya Sultana, **Jalal Khalil**, Da YAN \
 Journal of Transportation Technologies
 
-Parallel Mining of Large Maximal Quasi-Cliques [Link](https://doi.org/10.1007/s00778-021-00712-2) \
+**Parallel Mining of Large Maximal Quasi-Cliques** [Link](https://doi.org/10.1007/s00778-021-00712-2) \
 **Jalal Khalil**, Da Yan, Guimu Guo, Lyuheng Yuan \
 VLDB Journal 2021
 
@@ -18,25 +18,13 @@ Traffic Study of Shared Micromobility Services by Transportation Simulation [You
 **Jalal Khalil**, Da YAN, Guimu Guo, Mirza Tanzim Sami, Joy Bhadhan Roy, Virginia P. Sisiopiku. \
 IEEE BigData 2021
 
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Traffic Study of Shared Micromobility Services by Transportation Simulation</strong> [<a href="https://www.youtube.com/watch?v=irPD1wUYiOA" target="_blank">YouTube</a>]<br />
-          <b>Jalal Khalil</b>, Da YAN, Guimu Guo, Mirza Tanzim Sami, Joy Bhadhan Roy, Virginia P. Sisiopiku.<br />
-          IEEE BigData 2021<br />
-       </p>
-    </div>
-</div>
+[Poster] Realistic Transport Simulation for Studying the Impacts of Shared Micromobility Services [YouTube](https://youtu.be/SyR0mosJbDg) \
+**Jalal Khalil**, Da YAN, Guimu Guo, Mirza Tanzim Sami, Joy Bhadhan Roy, Virginia P. Sisiopiku. \
+BTSD@IEEE BigData 2021
 
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong> [Poster] Realistic Transport Simulation for Studying the Impacts of Shared Micromobility Services</strong> [<a href="https://youtu.be/SyR0mosJbDg" target="_blank">YouTube</a>]<br />
-          <b>Jalal Khalil</b>, Da YAN, Guimu Guo, Mirza Tanzim Sami, Joy Bhadhan Roy, Virginia P. Sisiopiku.<br />
-          BTSD@IEEE BigData 2021<br />
-       </p>
-    </div>
-</div>
+[Poster] Realistic Transport Simulation for Studying the Impacts of Shared Micromobility Services [YouTube](https://youtu.be/SyR0mosJbDg) \
+**Jalal Khalil**, Da YAN, Guimu Guo, Mirza Tanzim Sami, Joy Bhadhan Roy, Virginia P. Sisiopiku. \
+BTSD@IEEE BigData 2021
 
 <div class="media">
     <div class="media-body">
