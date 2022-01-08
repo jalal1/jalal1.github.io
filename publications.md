@@ -6,20 +6,13 @@ title: Publications
 [Google Scholar](https://scholar.google.com/citations?user=mH6ot6kAAAAJ&hl=en)
 
 ## 2021
-### Potential Benefits of Increased Public Transit Ridership in Medium Sized Cities: A Case Study [Link](https://doi.org/10.4236/jtts.2022.121004)
+Potential Benefits of Increased Public Transit Ridership in Medium Sized Cities: A Case Study [Link](https://doi.org/10.4236/jtts.2022.121004)
 Virginia Sisiopiku, Taniya Sultana, **Jalal Khalil**, Da YAN \
 Journal of Transportation Technologies
 
-
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Potential Benefits of Increased Public Transit Ridership in Medium Sized Cities: A Case Study</strong> [<a href="https://doi.org/10.4236/jtts.2022.121004" target="_blank">Link</a>]<br />
-          Virginia Sisiopiku, Taniya Sultana, <b>Jalal Khalil</b>, Da YAN<br />
-          Journal of Transportation Technologies
-       </p>
-    </div>
-</div>
+### Parallel Mining of Large Maximal Quasi-Cliques [Link](https://doi.org/10.1007/s00778-021-00712-2)
+**Jalal Khalil**, Da Yan, Guimu Guo, Lyuheng Yuan
+ VLDB Journal 2021
 
 <div class="media">
     <div class="media-body">
