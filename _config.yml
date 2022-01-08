@@ -14,7 +14,6 @@ author: Jalal Khalil
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Experience: "experience"
   Publications: "publications"
   Projects: "projects" 
   Resume: "resume"
