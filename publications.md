@@ -3,9 +3,8 @@ layout: page
 title: Publications
 ---
 
-<!-- You can also browse my <a href="https://scholar.google.com/citations?user=y4G5zEkAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar profile</a>
-and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP profile</a>.
-<br /> -->
+[<a href="https://scholar.google.com/citations?user=mH6ot6kAAAAJ&hl=en" target="_blank">Google Scholar</a>]
+<br />
 
 <h3>
     <a name='2021'></a> 2021
@@ -24,7 +23,7 @@ and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Parallel Mining of Large Maximal Quasi-Cliques</strong>[<a href="https://doi.org/10.1007/s00778-021-00712-2" target="_blank">Link</a>]<br />
+          <strong>Parallel Mining of Large Maximal Quasi-Cliques</strong> [<a href="https://doi.org/10.1007/s00778-021-00712-2" target="_blank">Link</a>]<br />
           <b>Jalal Khalil</b>, Da Yan, Guimu Guo, Lyuheng Yuan<br />
           VLDB Journal 2021<br />
        </p>
@@ -34,7 +33,7 @@ and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Traffic Study of Shared Micromobility Services by Transportation Simulation</strong>[<a href="https://www.youtube.com/watch?v=irPD1wUYiOA" target="_blank">YouTube</a>]<br />
+          <strong>Traffic Study of Shared Micromobility Services by Transportation Simulation</strong> [<a href="https://www.youtube.com/watch?v=irPD1wUYiOA" target="_blank">YouTube</a>]<br />
           <b>Jalal Khalil</b>, Da YAN, Guimu Guo, Mirza Tanzim Sami, Joy Bhadhan Roy, Virginia P. Sisiopiku.<br />
           IEEE BigData 2021<br />
        </p>
@@ -44,7 +43,7 @@ and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>[Poster] Realistic Transport Simulation for Studying the Impacts of Shared Micromobility Services</strong>[<a href="https://www.youtube.com/watch?v=irPD1wUYiOA" target="_blank">YouTube</a>]<br />
+          <strong> [Poster] Realistic Transport Simulation for Studying the Impacts of Shared Micromobility Services</strong> [<a href="https://youtu.be/SyR0mosJbDg" target="_blank">YouTube</a>]<br />
           <b>Jalal Khalil</b>, Da YAN, Guimu Guo, Mirza Tanzim Sami, Joy Bhadhan Roy, Virginia P. Sisiopiku.<br />
           BTSD@IEEE BigData 2021<br />
        </p>
@@ -54,7 +53,7 @@ and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>G-thinker: A General Distributed Framework for Finding Qualified Subgraphs in a Big Graph with Load Balancing</strong>[<a href="https://doi.org/10.1007/s00778-021-00688-z" target="_blank">Link</a>]<br />
+          <strong>G-thinker: A General Distributed Framework for Finding Qualified Subgraphs in a Big Graph with Load Balancing</strong> [<a href="https://doi.org/10.1007/s00778-021-00688-z" target="_blank">Link</a>]<br />
           Da YAN, Guimu Guo, <b>Jalal Khalil</b>, M. Tamer Ozsu, Wei-Shinn Ku, John C.S. Lui<br />
           VLDB Journal 2021<br />
        </p>
@@ -68,8 +67,7 @@ and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Scalable Mining of Maximal Quasi-Cliques: An Algorithm-System Codesign Approach</strong>
-          [<a href="https://dl.acm.org/doi/10.14778/3436905.3436916" target="_blank">Pdf</a>]<br />
+          <strong>Scalable Mining of Maximal Quasi-Cliques: An Algorithm-System Codesign Approach</strong> [<a href="https://dl.acm.org/doi/10.14778/3436905.3436916" target="_blank">Pdf</a>]<br />
           Guimu Guo, Da Yan, M. Tamer Özsu, Zhe Jiang, <b>Jalal Khalil</b><br />
           Proceedings of the VLDB Endowment (<b>PVLDB 2020</b>)<br />
        </p>
@@ -93,7 +91,7 @@ and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>[Poster] Realistic Transport Simulation with Open Data</strong>[<a href="https://doi.org/10.1109/BigData47090.2019.9006291" target="_blank">Link</a>] [<a href="_data/bigdata19sim_poster.pdf" target="_blank">Poster</a>]<br />
+          <strong> [Poster] Realistic Transport Simulation with Open Data</strong> [<a href="https://doi.org/10.1109/BigData47090.2019.9006291" target="_blank">Link</a>] [<a href="../_data/bigdata19sim_poster.pdf" target="_blank">Poster</a>]<br />
           Guimu Guo, <b>Jalal Khalil</b>, Da Yan, and Virginia Sisiopiku<br />
           2019 IEEE International Conference on Big Data (IEEE BigData 2019)<br />
        </p>
