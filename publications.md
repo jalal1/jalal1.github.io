@@ -14,7 +14,7 @@ Journal of Transportation Technologies
 **Jalal Khalil**, Da Yan, Guimu Guo, Lyuheng Yuan \
 VLDB Journal 2021
 
-**Traffic Study of Shared Micromobility Services by Transportation Simulation** [[YouTube]](https://www.youtube.com/watch?v=irPD1wUYiOA) \
+**Traffic Study of Shared Micromobility Services by Transportation Simulation** [[Link]](https://doi.org/10.1109/BigData52589.2021.9671455) [[YouTube]](https://www.youtube.com/watch?v=irPD1wUYiOA) \
 **Jalal Khalil**, Da YAN, Guimu Guo, Mirza Tanzim Sami, Joy Bhadhan Roy, Virginia P. Sisiopiku. \
 IEEE BigData 2021
 
