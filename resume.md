@@ -32,6 +32,6 @@ As a startup company, I have worked on the first prototypes to create Logitude P
 
 Some solo projects using C#:
 - XML to Silverlight conversion tool
-- Backup of SQL Azure database
-- Backup of Azure storage files
+- SQL Azure database backup
+- Azure storage backup
 
