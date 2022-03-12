@@ -17,7 +17,7 @@ Work includes:
 - Using Python ( 70% ), Jupyter Notebook ( 20% ) and Java ( 10% )
 
 
-### **Course Projects**
+### **Mini Projects**
 1. JTO\
 JTO is a social network platform for gym goers, where they can update their training progress, upload images and share posts with friends.\
 Using Flask, Python, SQLAlchemy and PostgreSQL.\
