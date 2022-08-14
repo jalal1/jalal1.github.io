@@ -40,5 +40,5 @@ Guimu Guo, **Jalal Khalil**, Da Yan, and Virginia Sisiopiku \
 
 **[Poster] Realistic Transport Simulation with Open Data** [[Link]](https://doi.org/10.1109/BigData47090.2019.9006291) [[Poster]](https://github.com/jalal1/jalal1.github.io/blob/9c60ee94aefe57198fb7905b198f99c5a7f38e64/_data/bigdata19sim_poster.pdf) \
 Guimu Guo, **Jalal Khalil**, Da Yan, and Virginia Sisiopiku \
-2019 IEEE International Conference on Big Data (BTSD @ IEEE BigData 2019)
+2019 IEEE International Conference on Big Data (IEEE BigData 2019)
 
