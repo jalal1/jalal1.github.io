@@ -1094,3 +1094,7 @@ pre {
     display: inline-block;
   }
 }
+
+div.container[role="main"] {
+  direction: rtl;
+}
