@@ -16,7 +16,7 @@ author: Jalal Khalil
 navbar-links:
   Publications: "publications"
   Projects: "projects" 
-  Resume: "resume"
+  # Resume: "resume"
 
 # --- Logo --- #
 
