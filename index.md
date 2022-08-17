@@ -38,8 +38,7 @@ subtitle: PhD Student in Computer Science, The University of Alabama at Birmingh
 
 ### **Experience**
 - **Logitude World, Cloud Engineer** (2013 - 2018)\
-    Responsible for cloud infrastructure and deployments (https://logitudeworld.com)
-
+    Responsible for cloud infrastructure and deployments https://logitudeworld.com\
     Responsibilities:
     - Deploy the weekly hotfixes and monthly releases
     - Manage pre-production and test versions
