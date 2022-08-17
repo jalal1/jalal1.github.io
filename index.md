@@ -49,8 +49,7 @@ subtitle: PhD Student in Computer Science, The University of Alabama at Birmingh
     - Troubleshoot and identify performance, connectivity and other issues for the applications hosted on Azure platform
 
 - **Logitude World, Software Engineer** (2010 - 2013)\
-    As a startup company, I have worked on the first prototypes to create Logitude Platform using C#, Silverlight, SQL Database and more
-
+    As a startup company, I have worked on the first prototypes to create Logitude Platform using C#, Silverlight, SQL Database and more\
     Some solo projects using C#:
     - XML to Silverlight conversion tool
     - SQL Azure database backup
