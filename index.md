@@ -28,18 +28,18 @@ subtitle: PhD Student in Computer Science, The University of Alabama at Birmingh
 - The VLDB Journal 2021
 
 ### **Internships**
-- **Shipt** (June 2022 - Aug. 2022)\
-    Engineering Intern\
+- **Engineering Intern** (June 2022 - Aug. 2022)\
+    [Shipt](https://www.shipt.com)\
     Search and Recommendation Team
     - Worked on a project to correct misspelled words on product search using Python.
-    - Worked on query understanding project using Go language. I designed the workflow using the Command pattern.
+    - Worked on query understanding project using Go.
     - Read some papers related to E-commerce product search and recommendation.
     - Learned about many new tools and technologies.
 
 ### **Experience**
-- **Logitude World, Cloud Engineer** (2013 - 2018)\
-    Responsible for cloud infrastructure and deployments https://logitudeworld.com\
-    Responsibilities:
+- **Cloud Engineer** (2013 - 2018)\
+[Logitude](https://logitudeworld.com)\
+    Responsible for cloud infrastructure and deployments
     - Deploy the weekly hotfixes and monthly releases
     - Manage pre-production and test versions
     - Manage and monitor SQL database backups, alerts, indexes, and performance
@@ -48,8 +48,9 @@ subtitle: PhD Student in Computer Science, The University of Alabama at Birmingh
     - Create tools to automate repetitive tasks, evaluate implementations, and provide feedback for tool improvements
     - Troubleshoot and identify performance, connectivity and other issues for the applications hosted on Azure platform
 
-- **Logitude World, Software Engineer** (2010 - 2013)\
-    As a startup company, I have worked on the first prototypes to create Logitude Platform using C#, Silverlight, SQL Database and more\
+- **Software Engineer** (2010 - 2013)\
+[Logitude](https://logitudeworld.com)\
+    As a startup, I have worked on the first prototypes to create Logitude Platform using C#, Silverlight, SQL, .Net, Microsoft Azure and more\
     Some solo projects using C#:
     - XML to Silverlight conversion tool
     - SQL Azure database backup
