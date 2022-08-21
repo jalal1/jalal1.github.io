@@ -11,7 +11,7 @@ In this project, we propose a parallel solution for mining maximal quasi-cliques
 MATSim is the state-of-the-art open source software for agent-based transport simulation, intended for use to evaluate transportation planning models. A standard approach to use MATSim is to conduct a user survey about their day-plans of travel, from which a synthetic dataset of agents' day-plans for an entire region is generated for transport simulation. The simulation output can be used for various evaluations, such as congestion conditions of road segments and their peak hours.
 
 Work includes:
-- Plan generation using machine learning utilizing a small survey data and open data.
+- Plan generation using machine learning utilizing small survey data and open data.
 - MATSim configuration and parameter tuning for the transportation simulation of the city of Birmingham, AL.
 - The study of mode-rich scenarios involving public transit, e-scooter, etc.
 - Using Python ( 70% ), Jupyter Notebook ( 20% ) and Java ( 10% )
@@ -25,7 +25,7 @@ Using Flask, Python, SQLAlchemy and PostgreSQL.\
 
 2. Simple Encryption on AWS\
 File encryption tool to encrypt files on AWS using OpenSSL.\
-Using Using Python, tkinter, OpenSSL and AWS\
+Using Python, tkinter, OpenSSL and AWS\
 [GitHub](https://github.com/jalal1/simple-encryption-aws)
 
 3. Air Quality Index - Covid 19\
