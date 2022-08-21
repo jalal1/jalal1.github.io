@@ -5,6 +5,15 @@ title: Publications
 
 [Google Scholar](https://scholar.google.com/citations?user=mH6ot6kAAAAJ&hl=en)
 
+### 2022
+**Maximal Directed Quasi-Clique Mining** [[Link]](https://doi.org/10.1109/ICDE53745.2022.00188) \
+Guimu Guo, Da Yan, Lyuheng Yuan, **Jalal Khalil**, Cheng Long, Zhe Jiang, Yang Zhou \
+The IEEE International Conference on Data Engineering (ICDE 2022)
+
+**Distributed Task-Based Training of Tree Models** [[Link]](https://doi.org/10.1109/ICDE53745.2022.00213) \
+Da Yan, Md Mashiur Rahma Chowdhury, Guimu Guo, **Jalal Kahlil**, Zhe Jiang, Sushil Prasad \
+The IEEE International Conference on Data Engineering (ICDE 2022)
+
 ### 2021
 **Potential Benefits of Increased Public Transit Ridership in Medium Sized Cities: A Case Study** [[Link]](https://doi.org/10.4236/jtts.2022.121004) \
 Virginia Sisiopiku, Taniya Sultana, **Jalal Khalil**, Da YAN \
