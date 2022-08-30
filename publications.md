@@ -6,6 +6,14 @@ title: Publications
 [Google Scholar](https://scholar.google.com/citations?user=mH6ot6kAAAAJ&hl=en)
 
 ### 2022
+**Realistic Urban Traffic Simulation with Ride-Hailing Services: A Revisit to Network Kernel Density Estimation (Systems Paper)** \
+**Jalal Khalil**, Da Yan, Lyuheng Yuan, Saugat Adhikari, Mostafa Jafarzadehfadaki, Virginia Sisiopiku and Zhe Jiang \
+International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2022)
+
+**An Elevation-Guided Annotation Tool for Flood Extent Mapping on Earth Imagery (Demo Paper)** \
+Saugat Adhikari, Da Yan, Mirza Tanzim Sami, **Jalal Khalil**, Lyuheng Yuan, Bhadhan Roy Joy, Zhe Jiang and Arpan Man Sainju \
+International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2022)
+
 **Maximal Directed Quasi-Clique Mining** [[Link]](https://doi.org/10.1109/ICDE53745.2022.00188) \
 Guimu Guo, Da Yan, Lyuheng Yuan, **Jalal Khalil**, Cheng Long, Zhe Jiang, Yang Zhou \
 The IEEE International Conference on Data Engineering (ICDE 2022)
