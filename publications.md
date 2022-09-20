@@ -8,7 +8,7 @@ title: Publications
 ### 2022
 **Realistic Urban Traffic Simulation with Ride-Hailing Services: A Revisit to Network Kernel Density Estimation (Systems Paper)** \
 **Jalal Khalil**, Da Yan, Lyuheng Yuan, Saugat Adhikari, Mostafa Jafarzadehfadaki, Virginia Sisiopiku and Zhe Jiang \
-International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2022)
+International Conference on Advances in Geographic Information Systems (`ACM SIGSPATIAL 2022`)
 
 **An Elevation-Guided Annotation Tool for Flood Extent Mapping on Earth Imagery (Demo Paper)** \
 Saugat Adhikari, Da Yan, Mirza Tanzim Sami, **Jalal Khalil**, Lyuheng Yuan, Bhadhan Roy Joy, Zhe Jiang and Arpan Man Sainju \
