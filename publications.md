@@ -27,9 +27,9 @@ The IEEE International Conference on Data Engineering (`ICDE` 2022)
 Virginia Sisiopiku, Taniya Sultana, **Jalal Khalil**, Da YAN \
 Journal of Transportation Technologies
 
-**Parallel Mining of Large Maximal Quasi-Cliques** [[Link]](https://doi.org/10.1007/s00778-021-00712-2) \
+**Parallel Mining of Large Maximal Quasi-Cliques** [[Link]](https://doi.org/10.1007/s00778-021-00712-2){:target="_blank"} \
 **Jalal Khalil**, Da Yan, Guimu Guo, Lyuheng Yuan \
-`VLDB` Journal 2021
+`VLDB Journal` 2021
 
 **Traffic Study of Shared Micromobility Services by Transportation Simulation** [[Link]](https://doi.org/10.1109/BigData52589.2021.9671455) [[YouTube]](https://www.youtube.com/watch?v=irPD1wUYiOA) \
 **Jalal Khalil**, Da YAN, Guimu Guo, Mirza Tanzim Sami, Joy Bhadhan Roy, Virginia P. Sisiopiku. \
