@@ -29,7 +29,7 @@ subtitle: PhD Student in Computer Science, The University of Alabama at Birmingh
 
 ### **Internships**
 - **Engineering Intern** (June 2022 - Aug. 2022)\
-    [Shipt](https://www.shipt.com)\
+    [Shipt](https://www.shipt.com){:target="_blank"}\
     Search and Recommendation Team
     - Worked on a project to correct misspelled words on product search using Python.
     - Worked on query understanding project using Go.
@@ -38,7 +38,7 @@ subtitle: PhD Student in Computer Science, The University of Alabama at Birmingh
 
 ### **Experience**
 - **Cloud Engineer** (2013 - 2018)\
-[Logitude](https://logitudeworld.com)\
+[Logitude](https://logitudeworld.com){:target="_blank"}\
     Responsible for cloud infrastructure and deployments
     - Deploy the weekly hotfixes and monthly releases
     - Manage pre-production and test versions
@@ -49,7 +49,7 @@ subtitle: PhD Student in Computer Science, The University of Alabama at Birmingh
     - Troubleshoot and identify performance, connectivity and other issues for the applications hosted on Azure platform
 
 - **Software Engineer** (2010 - 2013)\
-[Logitude](https://logitudeworld.com)\
+[Logitude](https://logitudeworld.com){:target="_blank"}\
     As a startup, I have worked on the first prototypes to create Logitude Platform using C#, Silverlight, SQL, .Net, Microsoft Azure and more\
     Some solo projects using C#:
     - XML to Silverlight conversion tool
