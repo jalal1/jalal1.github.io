@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-[Google Scholar](https://scholar.google.com/citations?user=mH6ot6kAAAAJ&hl=en)
+[Google Scholar](https://scholar.google.com/citations?user=mH6ot6kAAAAJ&hl=en){:target="_blank"}
 
 ### 2022
 **Realistic Urban Traffic Simulation with Ride-Hailing Services: A Revisit to Network Kernel Density Estimation (Systems Paper)** \
