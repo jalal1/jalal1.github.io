@@ -27,14 +27,17 @@ subtitle: PhD Student in Computer Science, The University of Alabama at Birmingh
 ### **Journal External Review:**
 - The VLDB Journal 2021
 
+### **Grants and Awards**
+- ACM SIGSPATIAL GIS 2022 Travel Grant
+
 ### **Internships**
 - **Engineering Intern** (June 2022 - Aug. 2022)\
     [Shipt](https://www.shipt.com){:target="_blank"}\
     Search and Recommendation Team
-    - Worked on a project to correct misspelled words on product search using Python.
-    - Worked on query understanding project using Go.
-    - Read some papers related to E-commerce product search and recommendation.
-    - Learned about many new tools and technologies.
+    - Worked on a spelling correction project using Python.
+    - Worked on a query understanding project using Go language.
+    - Read papers about E-commerce product search and recommendation.
+    - Hands on tools and technologies such as Kafka, Docker, Snowflake and others.
 
 ### **Experience**
 - **Cloud Engineer** (2013 - 2018)\
