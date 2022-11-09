@@ -41,7 +41,7 @@ Journal of Transportation Technologies
 
 **G-thinker: A General Distributed Framework for Finding Qualified Subgraphs in a Big Graph with Load Balancing** [[Link]](https://doi.org/10.1007/s00778-021-00688-z){:target="_blank"} \
 Da YAN, Guimu Guo, **Jalal Khalil**, M. Tamer Ozsu, Wei-Shinn Ku, John C.S. Lui \
-`VLDB` Journal 2021
+`VLDB Journal` 2021
 
 ### 2020
 
