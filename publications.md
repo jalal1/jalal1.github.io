@@ -33,11 +33,11 @@ Journal of Transportation Technologies
 
 **Traffic Study of Shared Micromobility Services by Transportation Simulation** [[Link]](https://doi.org/10.1109/BigData52589.2021.9671455) [[YouTube]](https://www.youtube.com/watch?v=irPD1wUYiOA){:target="_blank"} \
 **Jalal Khalil**, Da YAN, Guimu Guo, Mirza Tanzim Sami, Joy Bhadhan Roy, Virginia P. Sisiopiku. \
-`IEEE` BigData 2021
+`IEEE BigData` 2021
 
 **[Poster] Realistic Transport Simulation for Studying the Impacts of Shared Micromobility Services** [[YouTube]](https://youtu.be/SyR0mosJbDg){:target="_blank"} \
 **Jalal Khalil**, Da YAN, Guimu Guo, Mirza Tanzim Sami, Joy Bhadhan Roy, Virginia P. Sisiopiku. \
-2021 IEEE International Conference on Big Data (BTSD @ `IEEE` BigData 2021)
+2021 IEEE International Conference on Big Data (BTSD @ `IEEE BigData` 2021)
 
 **G-thinker: A General Distributed Framework for Finding Qualified Subgraphs in a Big Graph with Load Balancing** [[Link]](https://doi.org/10.1007/s00778-021-00688-z){:target="_blank"} \
 Da YAN, Guimu Guo, **Jalal Khalil**, M. Tamer Ozsu, Wei-Shinn Ku, John C.S. Lui \
@@ -53,9 +53,9 @@ Guimu Guo, Da Yan, M. Tamer Özsu, Zhe Jiang, **Jalal Khalil** \
 
 **Realistic Transport Simulation: Tackling the Small Data Challenge with Open Data** [[Link]](https://doi.org/10.1109/BigData47090.2019.9006457){:target="_blank"} \
 Guimu Guo, **Jalal Khalil**, Da Yan, and Virginia Sisiopiku \
-2019 IEEE International Conference on Big Data (BTSD @ `IEEE` BigData 2019)
+2019 IEEE International Conference on Big Data (BTSD @ `IEEE BigData` 2019)
 
 **[Poster] Realistic Transport Simulation with Open Data** [[Link]](https://doi.org/10.1109/BigData47090.2019.9006291){:target="_blank"} [[Poster]](https://github.com/jalal1/jalal1.github.io/blob/9c60ee94aefe57198fb7905b198f99c5a7f38e64/_data/bigdata19sim_poster.pdf){:target="_blank"} \
 Guimu Guo, **Jalal Khalil**, Da Yan, and Virginia Sisiopiku \
-2019 IEEE International Conference on Big Data (`IEEE` BigData 2019)
+2019 IEEE International Conference on Big Data (`IEEE BigData` 2019)
 
