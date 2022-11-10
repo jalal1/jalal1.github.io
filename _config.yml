@@ -42,7 +42,7 @@ social-network-links:
   github: jalal1
   # twitter: daattali
   # patreon: DeanAttali
-  # youtube: c/daattali
+  youtube: youtube.com/@jalalk
 #  medium: yourname
 #  reddit: yourname
   linkedin: "jalal-khalil-408a7117"
@@ -59,7 +59,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+  google-scholar: https://scholar.google.com/citations?user=mH6ot6kAAAAJ&hl=en
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
