@@ -33,7 +33,7 @@ Da YAN, Guimu Guo, **Jalal Khalil**, M. Tamer Ozsu, Wei-Shinn Ku, John C.S. Lui 
 ### 2021
 **Potential Benefits of Increased Public Transit Ridership in Medium Sized Cities: A Case Study** [[Link]](https://doi.org/10.4236/jtts.2022.121004){:target="_blank"} \
 Taniya Sultana, Virginia P. Sisiopiku, **Jalal Khalil**, Da YAN \
-Journal of Transportation Technologies
+`Journal of Transportation Technologies` 2021
 
 **Traffic Study of Shared Micromobility Services by Transportation Simulation** [[Link]](https://doi.org/10.1109/BigData52589.2021.9671455) [[YouTube]](https://www.youtube.com/watch?v=irPD1wUYiOA){:target="_blank"} \
 **Jalal Khalil**, Da YAN, Guimu Guo, Mirza Tanzim Sami, Joy Bhadhan Roy, Virginia P. Sisiopiku. \
