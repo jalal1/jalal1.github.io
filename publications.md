@@ -6,11 +6,11 @@ title: Publications
 [Google Scholar](https://scholar.google.com/citations?user=mH6ot6kAAAAJ&hl=en){:target="_blank"}
 
 ### 2022
-**Realistic Urban Traffic Simulation with Ride-Hailing Services: A Revisit to Network Kernel Density Estimation (Systems Paper) (Best Paper candidate :raised_hands:)** [[Link]](https://www.dropbox.com/s/2zp63k3wmxv61ot/paper_80.pdf?dl=0){:target="_blank"} [[YouTube]](https://youtu.be/cvTtre3mnHE){:target="_blank"} \
+**Realistic Urban Traffic Simulation with Ride-Hailing Services: A Revisit to Network Kernel Density Estimation (Systems Paper) (Best Paper candidate :raised_hands:)** [[Link]](https://doi.org/10.1145/3557915.3560963){:target="_blank"} [[YouTube]](https://youtu.be/cvTtre3mnHE){:target="_blank"} \
 **Jalal Khalil**, Da Yan, Lyuheng Yuan, Saugat Adhikari, Mostafa Jafarzadehfadaki, Virginia Sisiopiku and Zhe Jiang \
 International Conference on Advances in Geographic Information Systems (ACM `SIGSPATIAL` 2022)
 
-**An Elevation-Guided Annotation Tool for Flood Extent Mapping on Earth Imagery (Demo Paper)** \
+**An Elevation-Guided Annotation Tool for Flood Extent Mapping on Earth Imagery (Demo Paper)** [[Link]](https://doi.org/10.1145/3557915.3560962){:target="_blank"} \
 Saugat Adhikari, Da Yan, Mirza Tanzim Sami, **Jalal Khalil**, Lyuheng Yuan, Bhadhan Roy Joy, Zhe Jiang and Arpan Man Sainju \
 International Conference on Advances in Geographic Information Systems (ACM `SIGSPATIAL` 2022)
 
