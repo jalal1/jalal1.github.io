@@ -36,8 +36,8 @@ subtitle: PhD Student in Computer Science, The University of Alabama at Birmingh
     Search and Recommendation Team
     - Worked on a spelling correction project using Python.
     - Worked on a query understanding project using Go language.
-    - Read papers about E-commerce product search and recommendation.
-    - Hands on tools and technologies such as Kafka, Docker, Snowflake and others.
+    - Read papers about E-commerce product search and recommendations.
+    - Hands-on tools and technologies such as Kafka, Docker, Snowflake, and others.
 
 ### **Experience**
 - **Cloud Engineer** (2013 - 2018)\

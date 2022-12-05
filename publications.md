@@ -6,6 +6,11 @@ title: Publications
 [Google Scholar](https://scholar.google.com/citations?user=mH6ot6kAAAAJ&hl=en){:target="_blank"}
 
 ### 2022
+**T-FSM: A Task-Based System for Massively Parallel Frequent Subgraph Pattern Mining from a Big Graph** \
+Lyuheng Yuan, Da Yan, wenwen qu, Saugat Adhikari, **Jalal Khalil**, Cheng Long, Xiaoling 
+Wang \
+International Conference on Management of Data (ACM `SIGMOD` 2023) (Accepted and to appear)
+
 **Realistic Urban Traffic Simulation with Ride-Hailing Services: A Revisit to Network Kernel Density Estimation (Systems Paper) (Best Paper candidate :raised_hands:)** [[Link]](https://doi.org/10.1145/3557915.3560963){:target="_blank"} [[YouTube]](https://youtu.be/cvTtre3mnHE){:target="_blank"} \
 **Jalal Khalil**, Da Yan, Lyuheng Yuan, Saugat Adhikari, Mostafa Jafarzadehfadaki, Virginia Sisiopiku and Zhe Jiang \
 International Conference on Advances in Geographic Information Systems (ACM `SIGSPATIAL` 2022)
