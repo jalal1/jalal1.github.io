@@ -51,7 +51,7 @@ subtitle: PhD Student in Computer Science, The University of Alabama at Birmingh
     - Create tools to automate repetitive tasks, evaluate implementations, and provide feedback for tool improvements
     - Troubleshoot and identify performance, connectivity and other issues for the applications hosted on Azure platform
 
-- **Software Engineer** (2010 - 2013)\
+- **Software Engineer** (2009 - 2013)\
 [Logitude](https://logitudeworld.com){:target="_blank"}\
     As a startup, I have worked on the first prototypes to create Logitude Platform using C#, Silverlight, SQL, .Net, Microsoft Azure and more\
     Some solo projects using C#:
