@@ -49,7 +49,7 @@ subtitle: PhD Student in Computer Science, The University of Alabama at Birmingh
     - Manage the releases workflow with quality assurance and customer care teams
     - Backup tools for Azure storage and databases
     - Create tools to automate repetitive tasks, evaluate implementations, and provide feedback for tool improvements
-    - Troubleshoot and identify performance, connectivity and other issues for the applications hosted on Azure platform
+    - Troubleshoot and identify performance, connectivity and other issues for the applications hosted on the Azure platform
 
 - **Software Engineer** (2009 - 2013)\
 [Logitude](https://logitudeworld.com){:target="_blank"}\
@@ -59,3 +59,4 @@ subtitle: PhD Student in Computer Science, The University of Alabama at Birmingh
     - SQL Azure database backup
     - Azure storage backup
 
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=mcOIfkDhOnLFs7WSDZtS_7-FgANyajqw0o_um2M4M9I"></script>
