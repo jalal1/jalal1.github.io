@@ -59,4 +59,8 @@ subtitle: PhD Student in Computer Science, The University of Alabama at Birmingh
     - SQL Azure database backup
     - Azure storage backup
 
+<link href="assets/css/my.css" rel="stylesheet" />
+<div id="visitors_map">
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=mcOIfkDhOnLFs7WSDZtS_7-FgANyajqw0o_um2M4M9I"></script>
+<b>Added December 18 2022</b>
+</div>
