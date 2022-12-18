@@ -1,10 +1,10 @@
 div#visitors_map{
-    width: 250px;
-    height: 250px;
+    width: 200px;
+    height: 200px;
     margin: auto;
 }
 
 div#visitors_map b{
     text-align: center;
-    font-size:smaller
+    font-size:smaller;
 }
