@@ -3,3 +3,8 @@ div#visitors_map{
     height: 200px;
     margin: auto;
 }
+
+div#visitors_map b{
+    text-align: center;
+    font-size:x-small;
+}
