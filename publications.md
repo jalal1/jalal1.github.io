@@ -11,7 +11,7 @@ Lyuheng Yuan, Da Yan, wenwen qu, Saugat Adhikari, **Jalal Khalil**, Cheng Long, 
 Wang \
 International Conference on Management of Data (ACM `SIGMOD` 2023) (Accepted and to appear)
 
-**Realistic Urban Traffic Simulation with Ride-Hailing Services: A Revisit to Network Kernel Density Estimation (Systems Paper) (Best Paper candidate :raised_hands:)** [[Link]](https://doi.org/10.1145/3557915.3560963){:target="_blank"} [[YouTube]](https://youtu.be/cvTtre3mnHE){:target="_blank"} \
+**Realistic Urban Traffic Simulation with Ride-Hailing Services: A Revisit to Network Kernel Density Estimation (Systems Paper) (Best Paper candidate :raised_hands:)** [[GitHub]](https://github.com/jalal1/UberSim){:target="_blank"} [[Link]](https://doi.org/10.1145/3557915.3560963){:target="_blank"} [[YouTube]](https://youtu.be/cvTtre3mnHE){:target="_blank"} \
 **Jalal Khalil**, Da Yan, Lyuheng Yuan, Saugat Adhikari, Mostafa Jafarzadehfadaki, Virginia Sisiopiku and Zhe Jiang \
 International Conference on Advances in Geographic Information Systems (ACM `SIGSPATIAL` 2022)
 
@@ -27,7 +27,7 @@ The IEEE International Conference on Data Engineering (`ICDE` 2022)
 Da Yan, Md Mashiur Rahma Chowdhury, Guimu Guo, **Jalal Kahlil**, Zhe Jiang, Sushil Prasad \
 The IEEE International Conference on Data Engineering (`ICDE` 2022)
 
-**Parallel Mining of Large Maximal Quasi-Cliques** [[Link]](https://doi.org/10.1007/s00778-021-00712-2){:target="_blank"} \
+**Parallel Mining of Large Maximal Quasi-Cliques** [[GitHub]](https://github.com/yanlab19870714/Tthinker){:target="_blank"} [[Link]](https://doi.org/10.1007/s00778-021-00712-2){:target="_blank"} \
 **Jalal Khalil**, Da Yan, Guimu Guo, Lyuheng Yuan \
 `VLDB Journal` 2022
 
