@@ -11,6 +11,10 @@ Lyuheng Yuan, Da Yan, wenwen qu, Saugat Adhikari, **Jalal Khalil**, Cheng Long, 
 Wang \
 International Conference on Management of Data (ACM `SIGMOD` 2023) (Accepted and to appear)
 
+**Center-Based iPSC Colony Counting with Multi-Task Learning** [[Link]](https://doi.org/10.1109/ICDM54844.2022.00150){:target="_blank"} \
+Mirza Tanzim Sami, Da Yan, Bhadhan Roy Joy, **Jalal Khalil**, Ricardo Cevallos, Md Emon Hossain, Kejin Hu, Yang Zhou \
+IEEE International Conference on Data Mining (`ICDM` 2022)
+
 **Realistic Urban Traffic Simulation with Ride-Hailing Services: A Revisit to Network Kernel Density Estimation (Systems Paper) (Best Paper candidate :raised_hands:)** [[GitHub]](https://github.com/jalal1/UberSim){:target="_blank"} [[Link]](https://doi.org/10.1145/3557915.3560963){:target="_blank"} [[YouTube]](https://youtu.be/cvTtre3mnHE){:target="_blank"} \
 **Jalal Khalil**, Da Yan, Lyuheng Yuan, Saugat Adhikari, Mostafa Jafarzadehfadaki, Virginia Sisiopiku and Zhe Jiang \
 International Conference on Advances in Geographic Information Systems (ACM `SIGSPATIAL` 2022)
