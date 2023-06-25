@@ -6,10 +6,10 @@ title: Publications
 [Google Scholar](https://scholar.google.com/citations?user=mH6ot6kAAAAJ&hl=en){:target="_blank"}
 
 ### 2022
-**T-FSM: A Task-Based System for Massively Parallel Frequent Subgraph Pattern Mining from a Big Graph** \
+**T-FSM: A Task-Based System for Massively Parallel Frequent Subgraph Pattern Mining from a Big Graph** [[Link]](https://doi.org/10.1145/3588928){:target="_blank"} \
 Lyuheng Yuan, Da Yan, wenwen qu, Saugat Adhikari, **Jalal Khalil**, Cheng Long, Xiaoling 
 Wang \
-International Conference on Management of Data (ACM `SIGMOD` 2023) (Accepted and to appear)
+International Conference on Management of Data (ACM `SIGMOD` 2023)
 
 **Center-Based iPSC Colony Counting with Multi-Task Learning** [[Link]](https://doi.org/10.1109/ICDM54844.2022.00150){:target="_blank"} \
 Mirza Tanzim Sami, Da Yan, Bhadhan Roy Joy, **Jalal Khalil**, Ricardo Cevallos, Md Emon Hossain, Kejin Hu, Yang Zhou \
