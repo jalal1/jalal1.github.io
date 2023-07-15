@@ -8,7 +8,7 @@ My research interests include geospatial data management, graph mining, and tran
 
 ### **Grants and Awards**
 - ACM SIGSPATIAL GIS 2022 Travel Grant
-- Innovation Bowl 2022-2023 Winner [Link](https://www.linkedin.com/posts/radiance-technologies_winning-team-selected-for-inaugural-radiance-activity-7062151574743089152-ykGI?utm_source=share&utm_medium=member_desktop){:target="_blank"}\
+- Innovation Bowl 2022-2023 Winner [Link](https://www.linkedin.com/posts/radiance-technologies_winning-team-selected-for-inaugural-radiance-activity-7062151574743089152-ykGI?utm_source=share&utm_medium=member_desktop){:target="_blank"}
 
 ### **Education**
 - University of Alabama at Birmingham - PhD student in Computer Science (2023)
