@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-[Google Scholar](https://scholar.google.com/citations?user=mH6ot6kAAAAJ&hl=en){:target="_blank"}
+All publications: [Google Scholar](https://scholar.google.com/citations?user=mH6ot6kAAAAJ&hl=en){:target="_blank"}
 
 ### 2022
 **T-FSM: A Task-Based System for Massively Parallel Frequent Subgraph Pattern Mining from a Big Graph** [[Link]](https://doi.org/10.1145/3588928){:target="_blank"} \

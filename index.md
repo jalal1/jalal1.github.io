@@ -3,11 +3,15 @@ layout: home
 title: Jalal Khalil
 subtitle: Department of Computer Science and Information Technology, St. Cloud State University
 ---
-I am a tenure-track assistant professor of the Department of Computer Science and Information Technology at St.Cloud State University. I received my Ph.D. degree in Computer Science from the University of Alabama at Birmingham in 2023, and my M.S. degree in Scientific Computing from Birzeit University -Palestine. Before joining UAB in 2019, I worked in the industry for eight years building a cloud-based platform for supply chain management.
+I am a tenure-track assistant professor of the Department of Computer Science and Information Technology at St.Cloud State University. I received my Ph.D. degree in Computer Science from the University of Alabama at Birmingham in 2023, and my M.S. degree in Scientific Computing from Birzeit University-Palestine. Before joining UAB in 2019, I worked in the industry for eight years building a cloud-based platform for supply chain management.
 My research interests include geospatial data management, graph mining, and transportation simulation.
 
+### **Grants and Awards**
+- ACM SIGSPATIAL GIS 2022 Travel Grant
+- Innovation Bowl 2022-2023 Winner [Link](https://www.linkedin.com/posts/radiance-technologies_winning-team-selected-for-inaugural-radiance-activity-7062151574743089152-ykGI?utm_source=share&utm_medium=member_desktop){:target="_blank"}\
+
 ### **Education**
-- University of Alabama at Birmingham - PhD student in Computer Science (2019 until now)
+- University of Alabama at Birmingham - PhD student in Computer Science (2023)
 - Birzeit university - Master in Scientific Computing (2008 - 2010)
 - Arab American University - Telecommunication Technology (2003 - 2007)
 
@@ -16,7 +20,7 @@ My research interests include geospatial data management, graph mining, and tran
 - Networking, Spring 2021
 
 ### **Conference Review:**
-- CIKM 2022
+- CIKM 2022, 2023
 
 ### **Conference External Review:**
 - SIGMOD 2021
@@ -29,9 +33,6 @@ My research interests include geospatial data management, graph mining, and tran
 
 ### **Journal External Review:**
 - The VLDB Journal 2021
-
-### **Grants and Awards**
-- ACM SIGSPATIAL GIS 2022 Travel Grant
 
 ### **Internships**
 - **Engineering Intern** (June 2022 - Aug. 2022)\
