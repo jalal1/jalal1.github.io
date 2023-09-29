@@ -14,6 +14,7 @@ My research interests include geospatial data management, graph mining, and tran
 - CIKM 2022, 2023
 - AAAI 2024
 - ACM SIGMOD ARI 2023
+- AIGC 2023
 
 ### **Conference External Review:**
 - SIGMOD 2021
