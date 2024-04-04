@@ -8,13 +8,18 @@ My research interests include geospatial data management, graph mining, and tran
 
 ### **Grants and Awards**
 - ACM SIGSPATIAL GIS 2022 Travel Grant
-- Innovation Bowl 2022-2023 Winner [Link](https://www.linkedin.com/posts/radiance-technologies_winning-team-selected-for-inaugural-radiance-activity-7062151574743089152-ykGI?utm_source=share&utm_medium=member_desktop){:target="_blank"}
+- Innovation Bowl 2022-2023 Winner ($25,000) [Link](https://www.linkedin.com/posts/radiance-technologies_winning-team-selected-for-inaugural-radiance-activity-7062151574743089152-ykGI?utm_source=share&utm_medium=member_desktop){:target="_blank"}
 
 ### **Conference Review:**
-- CIKM 2022, 2023
 - AAAI 2024
+- The Journal of Supercomputing
+- CIKM 2022, 2023, 2024
+- IEEE BigData 2024
 - ACM SIGMOD ARI 2023
 - AIGC 2023
+
+### **Journal Review:**
+- The Journal of Supercomputing
 
 ### **Conference External Review:**
 - SIGMOD 2021
