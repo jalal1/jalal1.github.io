@@ -17,6 +17,7 @@ navbar-links:
   Publications: "publications"
   Projects: "projects"
   Teaching: "teaching"
+  ALMT: "almt"
   # Resume: "resume"
 
 # --- Logo --- #
@@ -38,7 +39,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "jalalk@uab.edu"
+  email: "jalal.khalil@stcloudstate.edu"
   # facebook: deanattali
   github: jalal1
   # twitter: daattali
