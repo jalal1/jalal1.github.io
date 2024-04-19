@@ -5,6 +5,10 @@ title: Publications
 
 All publications: [Google Scholar](https://scholar.google.com/citations?user=mH6ot6kAAAAJ&hl=en){:target="_blank"}
 
+**EvaNet: Elevation-Guided Flood Extent Mapping on Earth Imager** \
+Mirza Sami, Da Yan, Saugat Adhikari, Lyuheng Yuan, Jiao Han, Zhe Jiang, **Jalal Khalil**, Yang Zhou \
+The 33rd International Joint Conference on Artificial Intelligence (`IJCAI` 2024) (accepted and to appear)
+
 **FSM-Explorer: An Interactive Tool for Frequent Subgraph Pattern Mining from a Big Graph** \
 **Jalal Khalil**, Da YAN, Lyuheng Yuan, Jiao Han, Saugat Adhikari, Cheng Long, Yang Zhou \
 The IEEE International Conference on Data Engineering (`ICDE` 2024)
