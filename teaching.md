@@ -1,5 +1,4 @@
 ---
-layout: minimal
 title: Teaching
 ---
 ### **CSCI 411/511: Database Theory and Design**
