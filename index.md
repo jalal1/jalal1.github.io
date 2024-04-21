@@ -12,10 +12,9 @@ My research interests include geospatial data management, graph mining, and tran
 
 ### **Conference Review:**
 - AAAI 2024
-- The Journal of Supercomputing
 - CIKM 2022, 2023, 2024
-- IEEE BigData 2024
 - ACM SIGMOD ARI 2023
+- IEEE BigData 2024
 - AIGC 2023
 
 ### **Journal Review:**
