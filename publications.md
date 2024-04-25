@@ -5,7 +5,7 @@ title: Publications
 
 All publications: [Google Scholar](https://scholar.google.com/citations?user=mH6ot6kAAAAJ&hl=en){:target="_blank"}
 
-**EvaNet: Elevation-Guided Flood Extent Mapping on Earth Imager** \
+**EvaNet: Elevation-Guided Flood Extent Mapping on Earth Imagery** \
 Mirza Sami, Da Yan, Saugat Adhikari, Lyuheng Yuan, Jiao Han, Zhe Jiang, **Jalal Khalil**, Yang Zhou \
 The 33rd International Joint Conference on Artificial Intelligence (`IJCAI` 2024) (accepted and to appear)
 
