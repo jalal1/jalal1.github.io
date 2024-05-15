@@ -10,7 +10,7 @@ Mirza Sami, Da Yan, Saugat Adhikari, Lyuheng Yuan, Jiao Han, Zhe Jiang, **Jalal 
 The 33rd International Joint Conference on Artificial Intelligence (`IJCAI` 2024) (accepted and to appear)
 
 **FSM-Explorer: An Interactive Tool for Frequent Subgraph Pattern Mining from a Big Graph (Best Demo Runner Up! 🌟)** [[GitHub]](https://github.com/jalal1/tfsm_demo){:target="_blank"} [[YouTube]](https://www.youtube.com/watch?v=KL80bnqSb_s){:target="_blank"}[[Poster]](https://github.com/jalal1/jalal1.github.io/blob/37e18f0936035a2ad3a456f5571d2d18c29c51b8/_data/icde2024_tfsm_poster_portrait.pdf){:target="_blank"} \
-**Jalal Khalil**, Da YAN, Lyuheng Yuan, Jiao Han, Saugat Adhikari, Cheng Long, Yang Zhou \
+**Jalal Khalil**, Da Yan, Lyuheng Yuan, Jiao Han, Saugat Adhikari, Cheng Long, Yang Zhou \
 The IEEE International Conference on Data Engineering (`ICDE` 2024)
 
 -----------
