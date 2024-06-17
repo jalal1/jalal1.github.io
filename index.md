@@ -62,7 +62,7 @@ My research interests include geospatial data management, graph mining, and tran
     - Azure storage backup
 
 <link href="assets/css/my.css" rel="stylesheet" />
-<div id="visitors_map">
+<!-- <div id="visitors_map">
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=mcOIfkDhOnLFs7WSDZtS_7-FgANyajqw0o_um2M4M9I"></script>
 <b>Added on December 18, 2022</b>
-</div>
+</div> -->
