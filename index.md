@@ -11,14 +11,17 @@ My research interests include geospatial data management, graph mining, and tran
 - Innovation Bowl 2022-2023 Winner ($25,000) [Link](https://www.linkedin.com/posts/radiance-technologies_winning-team-selected-for-inaugural-radiance-activity-7062151574743089152-ykGI?utm_source=share&utm_medium=member_desktop){:target="_blank"}
 
 ### **Conference Review:**
-- AAAI 2024
+- AAAI 2024, 2025
 - CIKM 2022, 2023, 2024
 - ACM SIGMOD ARI 2023
+- LSGDA 2024
 - IEEE BigData 2024
+- BIOKDD 2024
 - AIGC 2023
 
 ### **Journal Review:**
 - The Journal of Supercomputing
+- Data Mining and Knowledge Discovery
 
 ### **Conference External Review:**
 - SIGMOD 2021
