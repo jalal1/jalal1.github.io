@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Jalal Khalil
-subtitle: Department of Computer Science and Information Technology, St. Cloud State University
+subtitle: Department of Computing, Informatics, and Data Science, St. Cloud State University
 ---
 I am a tenure-track assistant professor of Software Engineering at the [Department of Computer Science and Information Technology at St.Cloud State University](https://www.stcloudstate.edu/csit/default.aspx). I received my Ph.D. degree in Computer Science from the University of Alabama at Birmingham in 2023, and my M.S. degree in Scientific Computing from Birzeit University-Palestine. Before joining UAB in 2019, I worked in the industry for eight years building a cloud-based platform for supply chain management.
 My research interests include geospatial data management, graph mining, and transportation simulation.
