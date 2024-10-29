@@ -5,7 +5,7 @@ title: Publications
 
 All publications: [Google Scholar](https://scholar.google.com/citations?user=mH6ot6kAAAAJ&hl=en){:target="_blank"}
 
-**DirDense: A Tool for Mining Dense Subgraphs from a Big  Directed Graph** [[GitHub]](https://github.com/jalal1/diqcq_demo){:target="_blank"} [[YouTube]](https://www.youtube.com/watch?v=5r8yS7noeNc){:target="_blank"}\
+**DirDense: A Tool for Mining Dense Subgraphs from a Big  Directed Graph** [[Link]](https://dl.acm.org/doi/10.1145/3627673.3679207){:target="_blank"} [[GitHub]](https://github.com/jalal1/diqcq_demo){:target="_blank"} [[YouTube]](https://www.youtube.com/watch?v=5r8yS7noeNc){:target="_blank"}\
 **Jalal Khalil**, Ahmad Akhlaque, Da Yan, Lyuheng Yuan, Saugat Adhikari, Yang Zhou, Zhe Jiang \
 ACM International Conference on Information and Knowledge Management (`CIKM` 2024) (accepted and to appear)
 
