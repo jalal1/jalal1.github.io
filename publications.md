@@ -5,6 +5,16 @@ title: Publications
 
 All publications: [Google Scholar](https://scholar.google.com/citations?user=mH6ot6kAAAAJ&hl=en){:target="_blank"}
 
+**G-thinkerQ: A General Subgraph Querying System with a Unified Task-Based Programming Model**\
+Lyuheng Yuan, Guimu Guo, Da Yan, Saugat Adhikari, **Jalal Khalil**, Cheng Long, and Lei Zou\
+(`Transactions on Knowledge and Data Engineering (TKDE)` 2025) (Accepted and to appear)
+
+-----------
+
+**Urban Traffic Simulation with Shared Mobility Services: An Approach Using Spatiotemporal Network Kernel Density Estimation and MATSim** [[Link]](https://dl.acm.org/doi/pdf/10.1145/3704918){:target="_blank"} [[GitHub]](https://github.com/jalal1/VeoSim){:target="_blank"}\
+**Jalal Khalil**, Da Yan, Lyuheng Yuan, Mostafa Jafarzadehfadaki, Saugat Adhikari, Jiao Han, Virginia Sisiopiku, Zhe Jiang\
+(`ACM Transactions on Spatial Algorithms and Systems (TSAS)` 2024)
+
 **DirDense: A Tool for Mining Dense Subgraphs from a Big  Directed Graph** [[Link]](https://dl.acm.org/doi/10.1145/3627673.3679207){:target="_blank"} [[GitHub]](https://github.com/jalal1/diqcq_demo){:target="_blank"} [[YouTube]](https://www.youtube.com/watch?v=5r8yS7noeNc){:target="_blank"} [[Poster]](https://github.com/jalal1/jalal1.github.io/blob/7dd71e15373b06aad616ad23f37bfecbff26fb9c/_data/cikm2024_dirdense_poster.pdf){:target="_blank"}\
 **Jalal Khalil**, Ahmad Akhlaque, Da Yan, Lyuheng Yuan, Saugat Adhikari, Yang Zhou, Zhe Jiang \
 ACM International Conference on Information and Knowledge Management (`CIKM` 2024)
@@ -12,7 +22,6 @@ ACM International Conference on Information and Knowledge Management (`CIKM` 202
 **EvaNet: Elevation-Guided Flood Extent Mapping on Earth Imagery** \
 Mirza Sami, Da Yan, Saugat Adhikari, Lyuheng Yuan, Jiao Han, Zhe Jiang, **Jalal Khalil**, Yang Zhou \
 The 33rd International Joint Conference on Artificial Intelligence (`IJCAI` 2024)
-
 
 **FSM-Explorer: An Interactive Tool for Frequent Subgraph Pattern Mining from a Big Graph (Best Demo Runner Up! 🌟)** [[Link]](https://doi.org/10.1109/ICDE60146.2024.00414){:target="_blank"} [[GitHub]](https://github.com/jalal1/tfsm_demo){:target="_blank"} [[YouTube]](https://www.youtube.com/watch?v=KL80bnqSb_s){:target="_blank"}[[Poster]](https://github.com/jalal1/jalal1.github.io/blob/37e18f0936035a2ad3a456f5571d2d18c29c51b8/_data/icde2024_tfsm_poster_portrait.pdf){:target="_blank"} \
 **Jalal Khalil**, Da Yan, Lyuheng Yuan, Jiao Han, Saugat Adhikari, Cheng Long, Yang Zhou \
