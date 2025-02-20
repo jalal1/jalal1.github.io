@@ -23,7 +23,7 @@ ACM International Conference on Information and Knowledge Management (`CIKM` 202
 Mirza Sami, Da Yan, Saugat Adhikari, Lyuheng Yuan, Jiao Han, Zhe Jiang, **Jalal Khalil**, Yang Zhou \
 The 33rd International Joint Conference on Artificial Intelligence (`IJCAI` 2024)
 
-**FSM-Explorer: An Interactive Tool for Frequent Subgraph Pattern Mining from a Big Graph (Best Demo Runner Up! 🌟)** [[Link]](https://doi.org/10.1109/ICDE60146.2024.00414){:target="_blank"} [[GitHub]](https://github.com/jalal1/tfsm_demo){:target="_blank"} [[YouTube]](https://www.youtube.com/watch?v=KL80bnqSb_s){:target="_blank"}[[Poster]](https://github.com/jalal1/jalal1.github.io/blob/37e18f0936035a2ad3a456f5571d2d18c29c51b8/_data/icde2024_tfsm_poster_portrait.pdf){:target="_blank"} \
+**FSM-Explorer: An Interactive Tool for Frequent Subgraph Pattern Mining from a Big Graph (Best Demo Runner Up! 🌟)** [[Award]](img\icde_runner_up_demo_award.jpeg){:target="_blank"} [[Link]](https://doi.org/10.1109/ICDE60146.2024.00414){:target="_blank"} [[GitHub]](https://github.com/jalal1/tfsm_demo){:target="_blank"} [[YouTube]](https://www.youtube.com/watch?v=KL80bnqSb_s){:target="_blank"}[[Poster]](https://github.com/jalal1/jalal1.github.io/blob/37e18f0936035a2ad3a456f5571d2d18c29c51b8/_data/icde2024_tfsm_poster_portrait.pdf){:target="_blank"} \
 **Jalal Khalil**, Da Yan, Lyuheng Yuan, Jiao Han, Saugat Adhikari, Cheng Long, Yang Zhou \
 The IEEE International Conference on Data Engineering (`ICDE` 2024)
 
