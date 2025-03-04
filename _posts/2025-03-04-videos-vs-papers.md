@@ -1,6 +1,7 @@
 ---
-layout: post
-title: Replacing Research Papers with Videos: A New Era of Scholarly Communication?
+title: "Replacing Research Papers with Videos: A New Era of Scholarly Communication?"
+subtitle: "Learn how to easily start using GitHub Actions to automatically validate your package"
+thumbnail-img: "/assets/img/blog/2025-03-04-videos-vs-papers.webp"
 ---
 
 ### The Historical Foundation of Research Papers
