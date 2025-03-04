@@ -1,7 +1,7 @@
 ---
 title: "Replacing Research Papers with Videos: A New Era of Scholarly Communication?"
 thumbnail-img: "/assets/img/blog/2025-03-04-videos-vs-papers.webp"
-usemathjax: true
+mathjax: true
 ---
 
 ### The Historical Foundation of Research Papers
