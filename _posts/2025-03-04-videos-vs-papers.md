@@ -1,6 +1,5 @@
 ---
 title: "Replacing Research Papers with Videos: A New Era of Scholarly Communication?"
-subtitle: "Research communication has long relied on writing for its precision and accessibility. However, its challenges, especially for non-native speakers and newcomers, have sparked interest in video-based dissemination. With AI and video tools enabling structure, searchability, and multilingual support, could videos replace traditional research papers?"
 thumbnail-img: "/assets/img/blog/2025-03-04-videos-vs-papers.webp"
 ---
 
