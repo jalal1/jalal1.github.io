@@ -1,13 +1,13 @@
 ---
 title: "Replacing Research Papers with Videos: A New Era of Scholarly Communication?"
 thumbnail-img: "/assets/img/blog/2025-03-04-videos-vs-papers.webp"
-mathjax: true
+# mathjax: true # doesn't work!
 ---
 
 ### The Historical Foundation of Research Papers
 For centuries, writing has been the primary means of transferring knowledge across generations and geographies. From ancient manuscripts to modern scientific journals, the written word has played an instrumental role in preserving and disseminating human understanding. Before the advent of printing, knowledge was transmitted through oral traditions, but writing provided a reliable and reproducible way to document ideas, theories, and discoveries. The structured nature of written language also allowed for formal reasoning and logical argumentation, making it an ideal medium for scientific discourse.
 
-The use of mathematical notations, Greek letters, and symbols in research papers emerged as a standardized method to ensure precision and universality. Notations such as summation \\( \\sum \\), subsets \\( \\subseteq \\), and Greek symbols \\( \\alpha, \\beta, \\gamma \\) are widely adopted because they transcend linguistic barriers, enabling scholars from different linguistic backgrounds to understand complex mathematical expressions without relying on translations. These conventions, while essential for formal communication, also contribute to the steep learning curve of academic writing.
+The use of mathematical notations, Greek letters, and symbols in research papers emerged as a standardized method to ensure precision and universality. Notations such as summation ∑, subsets ⊆, and Greek symbols α, β, γ are widely adopted because they transcend linguistic barriers, enabling scholars from different linguistic backgrounds to understand complex mathematical expressions without relying on translations. These conventions, while essential for formal communication, also contribute to the steep learning curve of academic writing.
 
 ### The Challenges of Writing Research Papers
 Despite its historical importance, writing research papers is a demanding and time-consuming task. Scholars must meticulously structure their arguments, adhere to specific formatting styles, and incorporate precise mathematical notations. For non-native English speakers, the additional burden of linguistic proficiency can become a significant barrier to publication. Even for seasoned researchers, crafting a well-articulated paper requires weeks or even months of effort, from drafting and revising to addressing reviewer comments.
