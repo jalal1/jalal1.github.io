@@ -6,12 +6,21 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+
       - name: Enable debug logs
         run: echo "ACTIONS_STEP_DEBUG=true" >> $GITHUB_ENV
+
+      - name: Fix Git ownership issue
+        run: git config --global --add safe.directory /srv/jekyll
+
       - name: Build the site in the jekyll container
         run: |
           export JEKYLL_VERSION=latest
           docker run \
           -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
           -e PAGES_REPO_NWO=${{ github.repository }} \
-          jekyll/jekyll:$JEKYLL_VERSION /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --trace --verbose --future"
+          jekyll/jekyll:$JEKYLL_VERSION /bin/bash -c "
+            chmod 777 /srv/jekyll &&
+            gem uninstall google-protobuf --executables --all &&
+            gem install google-protobuf -v 3.21.12 &&
+            jekyll build --trace --verbose --future"
