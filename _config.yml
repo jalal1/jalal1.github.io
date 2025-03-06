@@ -15,7 +15,7 @@ author: Jalal Khalil
 
 navbar-links:
   Publications: "publications"
-  Blog: "blog"
+  # Blog: "blog"
   Teaching: "teaching"
   # Resume: "resume"
 
