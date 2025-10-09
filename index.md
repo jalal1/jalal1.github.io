@@ -14,8 +14,9 @@ My research interests include geospatial data management, graph mining, and tran
 - AAAI 2024, 2025
 - CIKM 2022, 2023, 2024
 - ACM SIGMOD ARI 2023
+- National Conference on Undergraduate Research (NCUR) 2026
 - LSGDA 2024
-- IEEE BigData 2024
+- IEEE BigData 2024, 2025
 - BIOKDD 2024
 - AIGC 2023
 
@@ -65,7 +66,8 @@ My research interests include geospatial data management, graph mining, and tran
     - Azure storage backup
 
 <link href="assets/css/my.css" rel="stylesheet" />
-<!-- <div id="visitors_map">
+<div id="visitors_map">
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=mcOIfkDhOnLFs7WSDZtS_7-FgANyajqw0o_um2M4M9I"></script>
-<b>Added on December 18, 2022</b>
-</div> -->
+<!-- <b>Added on December 18, 2022</b> -->
+<b>Added on October 09, 2025</b>
+</div>
