@@ -67,4 +67,3 @@ My research interests include geospatial data management, graph mining, and tran
     - SQL Azure database backup
     - Azure storage backup
 
-<link href="assets/css/my.css" rel="stylesheet" />
