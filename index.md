@@ -3,8 +3,8 @@ layout: home
 title: Jalal Khalil
 subtitle: Department of Computing, Informatics, and Data Science, St. Cloud State University
 ---
-I am a tenure-track assistant professor of Software Engineering at the [Department of Computer Science and Information Technology at St.Cloud State University](https://www.stcloudstate.edu/csit/default.aspx). I received my Ph.D. degree in Computer Science from the University of Alabama at Birmingham in 2023, and my M.S. degree in Scientific Computing from Birzeit University-Palestine. Before joining UAB in 2019, I worked in the industry for eight years building a cloud-based platform for supply chain management.
-My research interests include geospatial data management, graph mining, and transportation simulation.
+I am a tenure-track assistant professor of Computer Science at [St. Cloud State University](https://www.stcloudstate.edu/csit/default.aspx). I hold a Ph.D. in Computer Science from the University of Alabama at Birmingham (2023) and bring eight years of industry experience in cloud-based systems and software development.
+My research focuses on geospatial data management, graph mining, and transportation simulation. I'm actively engaged in the academic community through conference reviews and program committees at top-tier venues including AAAI, ICDM, VLDB, WWW, ECIR and CIKM.
 
 ### **Grants and Awards**
 - ACM SIGSPATIAL GIS 2022 Travel Grant
@@ -13,30 +13,21 @@ My research interests include geospatial data management, graph mining, and tran
 ### **Conference Review:**
 - AAAI 2024, 2025, 2026
 - ICDM 2025
-- VLDB Journal 2025
+- WWW 2026
+- ECIR 2026
+- TKDE 2025
 - CIKM 2022, 2023, 2024, 2025
 - ACM SIGMOD ARI 2023
-- National Conference on Undergraduate Research (NCUR) 2026
-- LSGDA 2024
-- IEEE BigData 2024, 2025
+- IEEE BIGDATA 2024, 2025
 - BIOKDD 2024
+- LSGDA 2024
 - AIGC 2023
+- National Conference on Undergraduate Research (NCUR)
 
 ### **Journal Review:**
+- VLDB Journal 2025
 - The Journal of Supercomputing
 - Data Mining and Knowledge Discovery
-
-### **Conference External Review:**
-- SIGMOD 2021
-- SIGKDD 2021, 2022
-- ICDE 2021, 2023
--  International Workshop on Big Data Tools, Methods, and Use Cases for Innovative Scientific Discovery (BTSD) 2020, 2021 with IEEE BigData
-- IEEE International Conference on Information Reuse and Integration for Data Science (IRI) 2020, 2021
-- CIKM 2021
-- International Workshop on Data Mining in Bioinformatics (BIOKDD) 2020
-
-### **Journal External Review:**
-- The VLDB Journal 2021
 
 ### **Internships**
 - **Engineering Intern** (June 2022 - Aug. 2022)\
