@@ -4,7 +4,9 @@ title: Projects
 
 ## Tareek: Configuration-Driven Agent-Based Traffic Simulation for Any US Metro Area
 
-![Tareek System Architecture](/assets/img/projects/Tareek/tareek_system_architecture_page-0001.jpg)
+<a href="/assets/img/projects/Tareek/tareek_system_architecture_page-0001.jpg" target="_blank">
+<img src="/assets/img/projects/Tareek/tareek_system_architecture_page-0001.jpg" alt="Tareek System Architecture" style="width: 100%; cursor: zoom-in;">
+</a>
 
 <p style="text-align: center;">
 <a href="https://github.com/jalal1/Tareek" target="_blank">[GitHub]</a> <a href="https://www.youtube.com/watch?v=Vlc4IO8HXN4" target="_blank">[TareeK-Web Demo]</a>
