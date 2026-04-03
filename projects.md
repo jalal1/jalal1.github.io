@@ -6,7 +6,7 @@ title: Projects
 
 ![Tareek System Architecture](/assets/img/projects/Tareek/tareek_system_architecture_page-0001.jpg)
 
-Tareek is an open-source traffic simulation framework that generates synthetic populations and activity schedules for [MATSim](https://www.matsim.org/){:target="_blank"}, a widely-used agent-based transportation modeling platform. Given US county identifiers, the system constructs complete simulations by integrating census demographics, household travel surveys, public transit data, and road networks.
+Tareek is an open-source traffic simulation framework that generates synthetic populations and activity schedules for MATSim, a widely-used agent-based transportation modeling platform. Given US county identifiers, the system constructs complete simulations by integrating census demographics, household travel surveys, public transit data, and road networks.
 
 **Key Features:**
 - **Population Synthesis** -- Creating artificial households matching actual census demographics
@@ -19,6 +19,8 @@ Tareek is an open-source traffic simulation framework that generates synthetic p
 
 ### Links
 
-[[GitHub]](https://github.com/jalal1/Tareek){:target="_blank"} [[Video Demo]](https://www.youtube.com/watch?v=Vlc4IO8HXN4){:target="_blank"}
+[[GitHub]](https://github.com/jalal1/Tareek){:target="_blank"} [[TareeK-Web Demo]](https://www.youtube.com/watch?v=Vlc4IO8HXN4){:target="_blank"}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Vlc4IO8HXN4" title="Tareek Web Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+-----------
