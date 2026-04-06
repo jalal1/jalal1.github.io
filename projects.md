@@ -23,8 +23,8 @@ Tareek is an open-source traffic simulation framework that generates synthetic p
 - **Web Configuration Wizard** -- Interactive interface for selecting counties on a map and exporting ready-to-run configurations
 - **Multi-Survey Blending** -- Combines NHTS with regional surveys via a plugin architecture
 
-<div style="text-align: center;">
+<!-- <div style="text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Vlc4IO8HXN4" title="Tareek Web Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+</div> -->
 
 -----------
