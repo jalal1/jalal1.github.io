@@ -6,7 +6,9 @@ subtitle: Department of Computing, Informatics, and Data Science, St. Cloud Stat
 I am a tenure-track assistant professor of Computer Science at [St. Cloud State University](https://www.stcloudstate.edu/csit/default.aspx). I hold a Ph.D. in Computer Science from the University of Alabama at Birmingham (2023) and bring eight years of industry experience in cloud-based systems and software development.
 My research focuses on geospatial data management, graph mining, and transportation simulation. I'm actively engaged in the academic community through conference reviews and program committees at top-tier venues including AAAI, ICDM, VLDB, WWW, ECIR and CIKM.
 
-### **Grants and Awards**
+### **Grants and Awards** 
+- ICDE 2024 Best Demo Runner-Up Award
+- SIGSPATIAL 2022 Best Paper Candidate
 - ACM SIGSPATIAL GIS 2022 Travel Grant
 - Innovation Bowl 2022-2023 Winner ($25,000) [Link](https://www.linkedin.com/posts/radiance-technologies_winning-team-selected-for-inaugural-radiance-activity-7062151574743089152-ykGI?utm_source=share&utm_medium=member_desktop){:target="_blank"}
 
