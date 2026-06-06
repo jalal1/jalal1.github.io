@@ -28,3 +28,17 @@ Tareek is an open-source traffic simulation framework that generates synthetic p
 </div> -->
 
 -----------
+
+## Birmingham Mobility Research Portal
+
+<a href="/assets/img/projects/BMRP/bmrp_main_page.jpg" target="_blank">
+<img src="/assets/img/projects/BMRP/bmrp_main_page.jpg" alt="Birmingham Mobility Research Portal Main Page" style="width: 100%; cursor: zoom-in;">
+</a>
+
+<p style="text-align: center;">
+<a href="https://almt0.github.io/" target="_blank">[Portal]</a> <a href="#" target="_blank">[arXiv] (coming soon)</a>
+</p>
+
+The Birmingham Mobility Research Portal makes comprehensive multimodal trip datasets for the city of Birmingham, Alabama, publicly available to researchers. It provides plans for various modes of transportation -- including private vehicles, public transit, micro-mobility, and ride-hailing services -- to support work in traffic simulation, crime prediction, epidemiological studies, and disaster response planning. Beyond the actual survey data, the portal offers synthetic datasets generated through a novel simulation system, enabling the exploration of diverse scenarios and scales, and provides access to datasets of different sizes through its website.
+
+-----------
