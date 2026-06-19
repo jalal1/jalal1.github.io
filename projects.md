@@ -55,8 +55,8 @@ TAREEK-Vis is the visualization companion to [Tareek](https://github.com/jalal1/
 
 ## Birmingham Mobility Research Portal
 
-<a href="/assets/img/projects/BMRP/bmrp_main_page.jpg" target="_blank">
-<img src="/assets/img/projects/BMRP/bmrp_main_page.jpg" alt="Birmingham Mobility Research Portal Main Page" style="width: 100%; cursor: zoom-in;">
+<a href="/assets/img/projects/BMRP/bmrp_main_page_2.png" target="_blank">
+<img src="/assets/img/projects/BMRP/bmrp_main_page_2.png" alt="Birmingham Mobility Research Portal Main Page" style="width: 100%; cursor: zoom-in;">
 </a>
 
 <p style="text-align: center;">
