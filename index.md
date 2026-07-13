@@ -42,7 +42,7 @@ My research focuses on geospatial data management, graph mining, and transportat
     - Hands-on tools and technologies such as Kafka, Docker, Snowflake, and others.
 
 ### **Experience**
-- **Cloud Engineer** (2013 - 2018)\
+- **Cloud Engineer** (2013 - 2017)\
 [Logitude](https://logitudeworld.com){:target="_blank"}\
     Responsible for cloud infrastructure and deployments
     - Deploy the weekly hotfixes and monthly releases
