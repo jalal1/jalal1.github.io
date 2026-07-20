@@ -15,11 +15,12 @@ My research focuses on geospatial data management, graph mining, and transportat
 
 ### **Conference Review:**
 - AAAI 2024, 2025, 2026
-- ICDM 2025
+- ICDM 2025, 2026
+- SIGSpatial 2026
 - WWW 2026
 - ECIR 2026
 - TKDE 2025
-- CIKM 2022, 2023, 2024, 2025
+- CIKM 2022, 2023-2026
 - ACM SIGMOD ARI 2023
 - IEEE BIGDATA 2024, 2025
 - BIOKDD 2024
@@ -28,7 +29,7 @@ My research focuses on geospatial data management, graph mining, and transportat
 - National Conference on Undergraduate Research (NCUR)
 
 ### **Journal Review:**
-- VLDB Journal 2025
+- VLDB Journal 2025, 2026
 - The Journal of Supercomputing
 - Data Mining and Knowledge Discovery
 

@@ -5,9 +5,9 @@ title: Publications
 
 All publications: [Google Scholar](https://scholar.google.com/citations?user=mH6ot6kAAAAJ&hl=en){:target="_blank"}
 
-**G-thinkerQ: A General Subgraph Querying System with a Unified Task-Based Programming Model**\
+**G-thinkerQ: A General Subgraph Querying System with a Unified Task-Based Programming Model** [[Link]](https://doi.org/10.1109/TKDE.2025.3537964){:target="_blank"} \
 Lyuheng Yuan, Guimu Guo, Da Yan, Saugat Adhikari, **Jalal Khalil**, Cheng Long, and Lei Zou\
-(`Transactions on Knowledge and Data Engineering (TKDE)` 2025) (Accepted and to appear)
+(`IEEE Transactions on Knowledge and Data Engineering (TKDE)` 2025)
 
 -----------
 
