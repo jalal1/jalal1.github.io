@@ -1,6 +1,9 @@
 # News items shown on the homepage, most recent first.
 # date format: YYYY-MM-DD (used for sorting/display only)
-- date: 2026-08-10
+- date: 2026-08-05
+  text: "TAREEK-Vis demo paper accepted at ACM SIGSPATIAL 2026"
+  link: "https://jalal1.github.io/publications/"
+- date: 2026-08-03
   text: "Serving as Guest Editor for the ISPRS International Journal of Geo-Information Special Issue on \"Geospatial Optimization and Multi-Objective Intelligent Algorithms: Innovations and Applications.\""
   link: "https://www.mdpi.com/journal/ijgi/special_issues/K42F307B3D"
 - date: 2026-08-01
