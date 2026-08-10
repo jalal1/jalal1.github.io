@@ -1,14 +1,12 @@
 # News items shown on the homepage, most recent first.
 # date format: YYYY-MM-DD (used for sorting/display only)
+- date: 2026-08-01
+  text: "Attended the Agentic AI Summit 2026 at UC Berkeley."
+  link: "https://rdi.berkeley.edu/events/agentic-ai-summit-2026"
+  image: "/assets/img/news/agentic-ai-summit-2026.jpg"
 - date: 2026-06-01
   text: "Received the St. Cloud State University Faculty Improvement Research Grant."
   link: "https://www.stcloudstate.edu/rsp/grants/internal/faculty-improvement.aspx"
-- date: 2025-04-27
-  text: "New blog post: How to Read a Research Paper."
-  link: "/2025-04-27-how-read-research-paper-murat/"
-- date: 2025-03-04
-  text: "New blog post: Videos vs. Papers."
-  link: "/2025-03-04-videos-vs-papers/"
 - date: 2024-10-01
   text: "DirDense demo paper accepted at ACM CIKM 2024."
   link: "https://dl.acm.org/doi/10.1145/3627673.3679207"
