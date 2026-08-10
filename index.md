@@ -11,15 +11,19 @@ My research focuses on geospatial data management, graph mining, and transportat
 {% assign news_items = site.data.news | sort: "date" | reverse %}
 {% for item in news_items %}
   <li>
-    {% if item.image %}
-    <a href="{{ item.link | default: item.image }}" target="_blank">
-      <img class="news-image" src="{{ item.image | relative_url }}" alt="{{ item.text }}">
-    </a>
-    {% endif %}
-    <span class="news-date">{{ item.date | date: "%b %Y" }}</span>
-    <span class="news-text">
-      {% if item.link %}<a href="{{ item.link }}" target="_blank">{{ item.text }}</a>{% else %}{{ item.text }}{% endif %}
-    </span>
+    <div class="news-row">
+      <div class="news-body">
+        <span class="news-date">{{ item.date | date: "%b %Y" }}</span>
+        <span class="news-text">
+          {% if item.link %}<a href="{{ item.link }}" target="_blank">{{ item.text }}</a>{% else %}{{ item.text }}{% endif %}
+        </span>
+      </div>
+      {% if item.image %}
+      <a href="{{ item.link | default: item.image }}" target="_blank" class="news-image-link">
+        <img class="news-image" src="{{ item.image | relative_url }}" alt="{{ item.text }}">
+      </a>
+      {% endif %}
+    </div>
   </li>
 {% endfor %}
 </ul>

@@ -60,6 +60,18 @@ a:focus {
   background: var(--accent);
 }
 
+.news-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.news-body {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
 .news-date {
   display: inline-block;
   min-width: 5.2rem;
@@ -75,14 +87,27 @@ a:focus {
   text-decoration: underline;
 }
 
+.news-image-link {
+  flex: 0 0 auto;
+}
+
 .news-image {
   display: block;
-  max-width: 320px;
-  width: 100%;
-  height: auto;
+  width: 96px;
+  height: 96px;
+  object-fit: cover;
   border-radius: 8px;
   border: 1px solid var(--card-border);
-  margin: 0.4rem 0 0.5rem 0;
+}
+
+@media (max-width: 576px) {
+  .news-row {
+    flex-wrap: wrap;
+  }
+  .news-image {
+    width: 72px;
+    height: 72px;
+  }
 }
 
 /* ---------------- Publications page ---------------- */
