@@ -5,6 +5,12 @@ title: Publications
 
 All publications: [Google Scholar](https://scholar.google.com/citations?user=mH6ot6kAAAAJ&hl=en){:target="_blank"}
 
+**TAREEK-Vis: An Interactive Visualization Tool for Large-Scale MATSim Traffic Simulations (Demo Paper) (accepted, to appear)** [[YouTube]](https://www.youtube.com/watch?v=Q7_H5vv58Go){:target="_blank"} \
+**Jalal Khalil**, Arein Duaibes, Da Yan, Virginia Sisiopiku \
+International Conference on Advances in Geographic Information Systems (ACM `SIGSPATIAL` 2026)
+
+-----------
+
 **G-thinkerQ: A General Subgraph Querying System with a Unified Task-Based Programming Model** [[Link]](https://doi.org/10.1109/TKDE.2025.3537964){:target="_blank"} \
 Lyuheng Yuan, Guimu Guo, Da Yan, Saugat Adhikari, **Jalal Khalil**, Cheng Long, and Lei Zou\
 (`IEEE Transactions on Knowledge and Data Engineering (TKDE)` 2025)
