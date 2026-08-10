@@ -1,5 +1,8 @@
 # News items shown on the homepage, most recent first.
 # date format: YYYY-MM-DD (used for sorting/display only)
+- date: 2026-08-10
+  text: "Serving as Guest Editor for the ISPRS International Journal of Geo-Information Special Issue on \"Geospatial Optimization and Multi-Objective Intelligent Algorithms: Innovations and Applications.\""
+  link: "https://www.mdpi.com/journal/ijgi/special_issues/K42F307B3D"
 - date: 2026-08-01
   text: "Attended the Agentic AI Summit 2026 at UC Berkeley."
   link: "https://rdi.berkeley.edu/events/agentic-ai-summit-2026"
