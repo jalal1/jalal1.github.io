@@ -1,0 +1,20 @@
+# News items shown on the homepage, most recent first.
+# date format: YYYY-MM-DD (used for sorting/display only)
+- date: 2026-06-01
+  text: "Received the St. Cloud State University Faculty Improvement Research Grant."
+  link: "https://www.stcloudstate.edu/rsp/grants/internal/faculty-improvement.aspx"
+- date: 2025-04-27
+  text: "New blog post: How to Read a Research Paper."
+  link: "/2025-04-27-how-read-research-paper-murat/"
+- date: 2025-03-04
+  text: "New blog post: Videos vs. Papers."
+  link: "/2025-03-04-videos-vs-papers/"
+- date: 2024-10-01
+  text: "DirDense demo paper accepted at ACM CIKM 2024."
+  link: "https://dl.acm.org/doi/10.1145/3627673.3679207"
+- date: 2024-05-01
+  text: "FSM-Explorer won the Best Demo Runner-Up Award at IEEE ICDE 2024."
+  link: "img/icde_runner_up_demo_award.jpeg"
+- date: 2023-01-01
+  text: "Innovation Bowl 2022-2023 winner ($25,000) with Radiance Technologies."
+  link: "https://www.linkedin.com/posts/radiance-technologies_winning-team-selected-for-inaugural-radiance-activity-7062151574743089152-ykGI?utm_source=share&utm_medium=member_desktop"

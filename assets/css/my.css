@@ -1,10 +1,123 @@
-div#visitors_map{
-    width: 150px;
-    height: 150px;
-    margin: auto;
+/* ---------------------------------------------------------------
+   Site-wide style refresh (layered on top of Beautiful Jekyll)
+   --------------------------------------------------------------- */
+
+:root {
+  --accent: #0b6e99;
+  --accent-dark: #084f70;
+  --ink: #2b2b2b;
+  --muted: #6b7280;
+  --card-bg: #ffffff;
+  --card-border: #e6e8eb;
 }
 
-div#visitors_map b{
-    text-align: center;
-    font-size:xx-small;
+body {
+  color: var(--ink);
+}
+
+a {
+  color: var(--accent);
+}
+a:hover,
+a:focus {
+  color: var(--accent-dark);
+}
+
+/* Headings get a bit more presence and a subtle accent rule */
+[role="main"] h3 {
+  margin-top: 2.2rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 2px solid var(--card-border);
+  letter-spacing: 0.02em;
+}
+
+[role="main"] h3:first-of-type {
+  margin-top: 1.2rem;
+}
+
+/* ---------------- News list on homepage ---------------- */
+
+.news-list {
+  list-style: none;
+  margin: 0 0 1rem 0;
+  padding: 0;
+  border-left: 2px solid var(--card-border);
+}
+
+.news-list li {
+  position: relative;
+  padding: 0.35rem 0 0.35rem 1.2rem;
+}
+
+.news-list li::before {
+  content: "";
+  position: absolute;
+  left: -6px;
+  top: 0.85rem;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: var(--accent);
+}
+
+.news-date {
+  display: inline-block;
+  min-width: 5.2rem;
+  font-weight: 600;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.news-text a {
+  text-decoration: none;
+}
+.news-text a:hover {
+  text-decoration: underline;
+}
+
+/* ---------------- Publications page ---------------- */
+
+[role="main"] hr {
+  border: 0;
+  border-top: 1px solid var(--card-border);
+  margin: 1.4rem 0;
+}
+
+/* ---------------- Projects page: card-style figures ---------------- */
+
+[role="main"] h2 {
+  margin-top: 2.6rem;
+  color: var(--ink);
+}
+
+[role="main"] h2:first-of-type {
+  margin-top: 1rem;
+}
+
+[role="main"] img {
+  border-radius: 8px;
+  border: 1px solid var(--card-border);
+}
+
+/* ---------------- Nav polish ---------------- */
+
+.navbar {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
+}
+
+.navbar-custom .nav-link {
+  font-weight: 500;
+}
+
+/* ---------------- Misc ---------------- */
+
+div#visitors_map {
+  width: 150px;
+  height: 150px;
+  margin: auto;
+}
+
+div#visitors_map b {
+  text-align: center;
+  font-size: xx-small;
 }
