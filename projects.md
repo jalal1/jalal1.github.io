@@ -36,7 +36,7 @@ Tareek is an open-source traffic simulation framework that generates synthetic p
 </a>
 
 <p style="text-align: center;">
-<a href="https://www.youtube.com/watch?v=Q7_H5vv58Go" target="_blank">[Demo Video]</a> <a href="#" target="_blank">[Paper] (coming soon)</a>
+<a href="https://github.com/jalal1/TAREEK-Vis" target="_blank">[GitHub]</a> <a href="https://www.youtube.com/watch?v=Q7_H5vv58Go" target="_blank">[Demo Video]</a> <a href="#" target="_blank">[Paper] (coming soon)</a>
 </p>
 
 Agent-based traffic simulators such as MATSim produce massive event logs -- often several gigabytes of timestamped vehicle movements for a single metropolitan day -- that are difficult to inspect, validate, and communicate. Existing visualization tools are either commercial and capped to a few hundred agents in their free tier, or web-based dashboards better suited to aggregate charts than to fluid, frame-accurate animation of every vehicle. TAREEK-Vis is a desktop application that replays an entire simulation day at interactive frame rates on commodity hardware. A one-time binary preprocessing step, a compact per-vehicle index, spatial indexing, and GPU-based rendering let the system animate hundreds of thousands of moving agents over the road network while overlaying public-transit lines and stops, background map tiles, and a side-by-side comparison of simulated versus observed link counts.
