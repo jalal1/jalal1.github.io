@@ -5,7 +5,7 @@ title: Publications
 
 All publications: [Google Scholar](https://scholar.google.com/citations?user=mH6ot6kAAAAJ&hl=en){:target="_blank"}
 
-**TAREEK-Vis: An Interactive Visualization Tool for Large-Scale MATSim Traffic Simulations (Demo Paper) (accepted, to appear)** [[Preprint]](/assets/papers/TAREEK-Vis_SIGSPATIAL2026_preprint.pdf){:target="_blank"} [[GitHub]](https://github.com/jalal1/TAREEK-Vis){:target="_blank"} [[YouTube]](https://www.youtube.com/watch?v=Q7_H5vv58Go){:target="_blank"} \
+**TAREEK-Vis: An Interactive Visualization Tool for Large-Scale MATSim Traffic Simulations (Demo Paper) (accepted, to appear)** [[PDF]](/assets/papers/TAREEK-Vis_SIGSPATIAL2026.pdf){:target="_blank"} [[GitHub]](https://github.com/jalal1/TAREEK-Vis){:target="_blank"} [[YouTube]](https://www.youtube.com/watch?v=Q7_H5vv58Go){:target="_blank"} \
 **Jalal Khalil**, Arein Duaibes, Da Yan, Virginia Sisiopiku \
 International Conference on Advances in Geographic Information Systems (ACM `SIGSPATIAL` 2026)
 
