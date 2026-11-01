@@ -2,17 +2,17 @@
 title: Projects
 ---
 
-## Tareek: Configuration-Driven Agent-Based Traffic Simulation for Any US Metro Area
+## TAREEK: Configuration-Driven Agent-Based Traffic Simulation for Any US Metro Area
 
 <a href="/assets/img/projects/Tareek/tareek_system.jpg" target="_blank">
-<img src="/assets/img/projects/Tareek/tareek_system.jpg" alt="Tareek System Architecture" style="width: 100%; cursor: zoom-in;">
+<img src="/assets/img/projects/Tareek/tareek_system.jpg" alt="TAREEK System Architecture" style="width: 100%; cursor: zoom-in;">
 </a>
 
 <p style="text-align: center;">
-<a href="https://github.com/jalal1/Tareek" target="_blank">[GitHub]</a> <a href="https://www.youtube.com/watch?v=Vlc4IO8HXN4" target="_blank">[TareeK-Web Demo]</a> <a href="#" target="_blank">[Paper] (coming soon)</a>
+<a href="https://github.com/jalal1/Tareek" target="_blank">[GitHub]</a> <a href="https://www.youtube.com/watch?v=Vlc4IO8HXN4" target="_blank">[TAREEK-Web Demo]</a> <a href="#" target="_blank">[Paper] (coming soon)</a>
 </p>
 
-Tareek is an open-source traffic simulation framework that generates synthetic populations and activity schedules for MATSim, a widely-used agent-based transportation modeling platform. Given US county identifiers, the system constructs complete simulations by integrating census demographics, household travel surveys, public transit data, and road networks.
+TAREEK is an open-source traffic simulation framework that generates synthetic populations and activity schedules for MATSim, a widely-used agent-based transportation modeling platform. Given US county identifiers, the system constructs complete simulations by integrating census demographics, household travel surveys, public transit data, and road networks.
 
 **Key Features:**
 - **Population Synthesis** -- Creating artificial households matching actual census demographics
@@ -49,7 +49,7 @@ Agent-based traffic simulators such as MATSim produce massive event logs -- ofte
 - **Calibration View** -- Side-by-side comparison of simulated versus observed link counts
 - **Reporting Tools** -- Export figures and videos for reporting
 
-TAREEK-Vis is the visualization companion to [Tareek](https://github.com/jalal1/Tareek), an automated pipeline our group develops for building MATSim scenarios of arbitrary U.S. metropolitan areas, and it consumes standard MATSim files from any source. We illustrate its use on real MATSim scenarios for four U.S. metropolitan areas, interactively exploring congestion, transit operations, and calibration quality. We will release the source code under an open-source license upon publication.
+TAREEK-Vis is the visualization companion to [TAREEK](https://github.com/jalal1/Tareek), an automated pipeline our group develops for building MATSim scenarios of arbitrary U.S. metropolitan areas, and it consumes standard MATSim files from any source. We illustrate its use on real MATSim scenarios for four U.S. metropolitan areas, interactively exploring congestion, transit operations, and calibration quality. We will release the source code under an open-source license upon publication.
 
 -----------
 
