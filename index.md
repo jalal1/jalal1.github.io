@@ -18,10 +18,14 @@ My research focuses on geospatial data management, graph mining, and transportat
           {% if item.link %}<a href="{{ item.link }}" target="_blank">{{ item.text }}</a>{% else %}{{ item.text }}{% endif %}
         </span>
       </div>
-      {% if item.image %}
-      <a href="{{ item.image | relative_url }}" target="_blank" class="news-image-link">
-        <img class="news-image" src="{{ item.image | relative_url }}" alt="{{ item.text }}">
-      </a>
+      {% if item.images %}
+      <div class="news-images">
+        {% for image in item.images %}
+        <a href="{{ image | relative_url }}" target="_blank" class="news-image-link">
+          <img class="news-image" src="{{ image | relative_url }}" alt="{{ item.text }}">
+        </a>
+        {% endfor %}
+      </div>
       {% endif %}
     </div>
   </li>

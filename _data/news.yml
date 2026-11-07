@@ -1,13 +1,12 @@
 # News items shown on the homepage, most recent first.
 # date format: YYYY-MM-DD (used for sorting/display only)
+# images: optional list of photos; each thumbnail opens its full image
 - date: 2026-11-05
-  text: "Presented the TAREEK-Vis demo at ACM SIGSPATIAL 2026 in Riverside, CA."
-  link: "https://sigspatial2026.sigspatial.org/demo-accepted/"
-  image: "/assets/img/news/sigspatial-2026-tareek-vis-demo.jpg"
-- date: 2026-11-03
-  text: "Attended ACM SIGSPATIAL 2026, the 34th edition of the conference, in Riverside, CA."
+  text: "Attended ACM SIGSPATIAL 2026 in Riverside, CA, and presented the TAREEK-Vis demo."
   link: "https://sigspatial2026.sigspatial.org/"
-  image: "/assets/img/news/sigspatial-2026-banquet.jpg"
+  images:
+    - "/assets/img/news/sigspatial-2026-tareek-vis-demo.jpg"
+    - "/assets/img/news/sigspatial-2026-banquet.jpg"
 - date: 2026-08-05
   text: "TAREEK-Vis demo paper accepted at ACM SIGSPATIAL 2026"
   link: "https://jalal1.github.io/publications/"
@@ -17,7 +16,8 @@
 - date: 2026-08-01
   text: "Attended the Agentic AI Summit 2026 at UC Berkeley."
   link: "https://rdi.berkeley.edu/events/agentic-ai-summit-2026"
-  image: "/assets/img/news/agentic-ai-summit-2026.jpg"
+  images:
+    - "/assets/img/news/agentic-ai-summit-2026.jpg"
 - date: 2026-06-01
   text: "Received the St. Cloud State University Faculty Improvement Research Grant."
   link: "https://www.stcloudstate.edu/rsp/grants/internal/faculty-improvement.aspx"
