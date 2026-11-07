@@ -1,5 +1,13 @@
 # News items shown on the homepage, most recent first.
 # date format: YYYY-MM-DD (used for sorting/display only)
+- date: 2026-11-05
+  text: "Presented the TAREEK-Vis demo at ACM SIGSPATIAL 2026 in Riverside, CA."
+  link: "https://sigspatial2026.sigspatial.org/demo-accepted/"
+  image: "/assets/img/news/sigspatial-2026-tareek-vis-demo.jpg"
+- date: 2026-11-03
+  text: "Attended ACM SIGSPATIAL 2026, the 34th edition of the conference, in Riverside, CA."
+  link: "https://sigspatial2026.sigspatial.org/"
+  image: "/assets/img/news/sigspatial-2026-banquet.jpg"
 - date: 2026-08-05
   text: "TAREEK-Vis demo paper accepted at ACM SIGSPATIAL 2026"
   link: "https://jalal1.github.io/publications/"

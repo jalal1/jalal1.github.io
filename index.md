@@ -19,7 +19,7 @@ My research focuses on geospatial data management, graph mining, and transportat
         </span>
       </div>
       {% if item.image %}
-      <a href="{{ item.link | default: item.image }}" target="_blank" class="news-image-link">
+      <a href="{{ item.image | relative_url }}" target="_blank" class="news-image-link">
         <img class="news-image" src="{{ item.image | relative_url }}" alt="{{ item.text }}">
       </a>
       {% endif %}
